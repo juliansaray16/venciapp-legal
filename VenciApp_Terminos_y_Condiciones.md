@@ -8,16 +8,36 @@
 
 ## ÍNDICE
 
-1. Identificación del titular · 2. Aceptación · 3. Definiciones · 4. Objeto ·
-5. Naturaleza informativa · 6. **Recordatorios y notificaciones (límites)** ·
-7. Cuenta · 8. Equipos y usuarios adicionales · 9. Datos de terceros ·
-10. Contenido del Usuario · 11. Planes y pagos · 12. Prueba gratuita ·
-13. Retracto y reembolsos · 14. Uso aceptable · 15. Propiedad intelectual ·
-16. Telemetría · 17. Disponibilidad · 18. Versiones de prueba ·
-19. Exclusión de garantías · 20. **Limitación de responsabilidad** ·
-21. Indemnidad · 22. Fuerza mayor · 23. Suspensión y terminación ·
-24. Modificaciones · 25. Cesión · 26. Comunicaciones · 27. Datos personales ·
-28. Ley aplicable y jurisdicción · 29. Disposiciones finales · 30. Contacto
+1. Identificación del titular
+2. Aceptación
+3. Definiciones
+4. Objeto
+5. Naturaleza informativa
+6. **Recordatorios y notificaciones (límites)**
+7. Cuenta
+8. Equipos y usuarios adicionales
+9. Datos de terceros
+10. Contenido del Usuario
+11. Planes y pagos
+12. Prueba gratuita
+13. Retracto y reembolsos
+14. Uso aceptable
+15. Propiedad intelectual
+16. Telemetría
+17. Disponibilidad
+18. Versiones de prueba
+19. Exclusión de garantías
+20. **Limitación de responsabilidad**
+21. Indemnidad
+22. Fuerza mayor
+23. Suspensión y terminación
+24. Modificaciones
+25. Cesión
+26. Comunicaciones
+27. Datos personales
+28. Ley aplicable y jurisdicción
+29. Disposiciones finales
+30. Contacto
 
 ---
 
@@ -754,8 +774,9 @@ Para cualquier consulta, petición o reclamo relacionado con estos Términos, el
 Usuario puede comunicarse con:
 
 **AKRUX S.A.S.** — NIT 902.086.312-4
-Correo electrónico: **admin@venciapp.co**
-Domicilio: Diagonal 8 Sur # 39A - 138, Villavicencio, Meta, Colombia
+
+- Correo electrónico: **admin@venciapp.co**
+- Domicilio: Diagonal 8 Sur # 39A - 138, Villavicencio, Meta, Colombia
 
 ---
 

@@ -504,11 +504,11 @@ Superintendencia de Industria y Comercio — www.sic.gov.co
 
 ## 20. CONTACTO
 
-**AKRUX S.A.S.** — NIT 902.086.312-4
-Área de Protección de Datos Personales
-Correo electrónico: **admin@venciapp.co**
-Domicilio: Diagonal 8 Sur # 39A - 138, Villavicencio, Meta, Colombia
-Teléfono: +57 314 217 3610
+**AKRUX S.A.S.** — NIT 902.086.312-4, Área de Protección de Datos Personales.
+
+- Correo electrónico: **admin@venciapp.co**
+- Domicilio: Diagonal 8 Sur # 39A - 138, Villavicencio, Meta, Colombia
+- Teléfono: +57 314 217 3610
 
 ---
 

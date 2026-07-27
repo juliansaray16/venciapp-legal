@@ -225,27 +225,24 @@ RNBD.
 
 ---
 
-## 4. Publicación: hay dos políticas vivas y divergentes 🟠
+## 4. Publicación: había dos políticas vivas y divergentes ✅ RESUELTO 2026-07-27
 
-- `privacy-policy.md` de este repositorio se publica en
-  `https://juliansaray16.github.io/venciapp-legal/` (ver `README.md`, `_config.yml`,
-  `index.md`) y trae el correo personal `julian14-04@outlook.com`.
-- La app apunta a **otra** dirección: `src/config/constants.ts:11` →
-  `https://venciapp.co/privacidad` (y `URL_TERMINOS`), que vive en el repositorio
-  `venciapp-web`.
+El problema era: `privacy-policy.md` se publicaba en
+`https://juliansaray16.github.io/venciapp-legal/` declarando responsable a
+"Julián Saray (persona natural)" con correo personal, mientras la app apuntaba a
+`https://venciapp.co/privacidad` (`src/config/constants.ts:11`) con **otro**
+texto. Ante un reclamo se aplica la más favorable al titular, y la discrepancia
+sugiere descuido en el cumplimiento.
 
-**Tener dos políticas de privacidad publicadas y distintas es un riesgo en sí
-mismo**: ante un reclamo, se aplica la que le sea más favorable al titular, y la
-discrepancia sugiere descuido en el cumplimiento. No borré `privacy-policy.md`
-porque es la que está viva hoy y la que probablemente se registró ante las
-tiendas. Decidir una de dos:
+Se tomó la primera de las dos opciones:
 
-- Publicar la v2.0 en `venciapp.co/privacidad` y `/terminos`, y dejar
-  `privacy-policy.md` como una redirección a esa URL.
-- O mantener GitHub Pages como sede oficial y cambiar `constants.ts`.
-
-Recomendado: lo primero. El dominio propio da mejor impresión ante Apple/Google
-y ante un cliente empresarial, y ya está referenciado desde la app.
+- `venciapp.co/privacidad` y `/terminos` renderizan la v2.0 **desde estos mismos
+  `.md`** (copiados a `venciapp-web/content/legal/`). No hay transcripción a
+  JSX: esa transcripción fue justamente lo que se desincronizó.
+- `privacy-policy.md` quedó como redirección al sitio oficial. La URL sigue viva
+  porque probablemente es la registrada ante las tiendas.
+- La v1.0 se conserva en `historico/politica-privacidad-v1.0.md` con un banner de
+  "sin vigencia".
 
 ---
 
