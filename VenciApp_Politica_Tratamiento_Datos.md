@@ -1,25 +1,17 @@
 # POLÍTICA DE TRATAMIENTO DE DATOS PERSONALES — VENCIAPP
 
-**Última actualización:** [FECHA DE PUBLICACIÓN]
+**Última actualización:** 27 de julio de 2026
 **Versión:** 2.0
 **Vigencia:** desde su publicación
-
----
-
-> **NOTA INTERNA — BORRAR ANTES DE PUBLICAR.** Documento preparado conforme a la
-> Ley 1581 de 2012 y el Decreto 1074 de 2015, para revisión de abogado
-> colombiano. Los campos entre corchetes `[ ]` deben completarse con información
-> real y verificada. Ver `NOTAS_LEGALES_INTERNAS.md`: esta Política describe
-> mecanismos que deben estar **efectivamente implementados** antes de publicarla.
 
 ---
 
 ## 1. RESPONSABLE DEL TRATAMIENTO
 
 **AKRUX S.A.S.**, sociedad comercial constituida conforme a las leyes de la
-República de Colombia, identificada con **NIT [NIT] - [DV]**, con domicilio
-principal en **[DIRECCIÓN], [CIUDAD], Colombia**, correo electrónico
-**soporte@venciapp.co** y teléfono **[TELÉFONO]** (en adelante, el "Responsable"
+República de Colombia, identificada con **NIT 902.086.312-4**, con domicilio
+principal en **Diagonal 8 Sur # 39A - 138, Villavicencio, Meta, Colombia**, correo electrónico
+**admin@venciapp.co** y teléfono **+57 314 217 3610** (en adelante, el "Responsable"
 o "AKRUX"), es el responsable del tratamiento de los datos personales recolectados
 a través de la aplicación **VenciApp** (la "Aplicación"), en sus versiones móvil y
 web, y del sitio web **venciapp.co**.
@@ -28,7 +20,7 @@ web, y del sitio web **venciapp.co**.
 
 **Área responsable de la atención de peticiones, consultas y reclamos:** Área de
 Protección de Datos Personales de AKRUX S.A.S., a través del correo electrónico
-**soporte@venciapp.co**.
+**admin@venciapp.co**.
 
 ## 2. ALCANCE Y MARCO LEGAL
 
@@ -249,7 +241,7 @@ acreditando debidamente su calidad.
 ## 9. PROCEDIMIENTO PARA CONSULTAS Y RECLAMOS
 
 **9.1. Canal de atención.** Los Titulares pueden ejercer sus derechos enviando su
-solicitud al correo **soporte@venciapp.co**, indicando: nombre completo, número de
+solicitud al correo **admin@venciapp.co**, indicando: nombre completo, número de
 identificación, la petición concreta, los hechos que la motivan, los documentos
 que deseen hacer valer y una dirección de contacto para la respuesta.
 
@@ -302,16 +294,18 @@ necesario para la ejecución del contrato entre el Titular y el Responsable
 **10.3. Encargados y subprocesadores.** AKRUX se apoya en los siguientes
 proveedores, con quienes mantiene los respectivos acuerdos de tratamiento:
 
-| Proveedor | Servicio prestado | Datos a los que accede |
-|---|---|---|
-| Proveedor de infraestructura de base de datos, autenticación y almacenamiento en la nube | Alojamiento de la base de datos, gestión de cuentas y almacenamiento de archivos | Todos los datos de cuenta, de contribuyentes, notas y archivos |
-| Proveedor de monitoreo de errores y rendimiento | Diagnóstico de fallos y desempeño de la Aplicación | Identificador de cuenta, correo electrónico, datos técnicos del dispositivo y trazas de error |
-| Proveedor de envío de correo transaccional | Entrega de recordatorios, avisos e invitaciones | Nombre, correo electrónico y contenido del mensaje (que incluye nombres de contribuyentes y sus vencimientos) |
-| Plataformas de distribución de aplicaciones y su intermediario de suscripciones | Procesamiento de compras y gestión del estado de la suscripción | Identificador de cuenta y estado de la suscripción |
-| Proveedor de la plataforma de desarrollo y actualización de la Aplicación | Distribución de actualizaciones y servicio de notificaciones | Identificador de dispositivo y datos técnicos |
+| Proveedor | País | Servicio prestado | Datos a los que accede |
+|---|---|---|---|
+| **Supabase, Inc.** | Estados Unidos | Alojamiento de la base de datos, autenticación de cuentas y almacenamiento de archivos | Todos los datos de cuenta, de Contribuyentes, notas y archivos |
+| **Functional Software, Inc.** (Sentry) | Estados Unidos | Diagnóstico de fallos y rendimiento de la Aplicación | Identificador interno de la cuenta, datos técnicos del dispositivo y trazas de error |
+| **Resend** | Estados Unidos | Envío de correo transaccional: recordatorios, avisos e invitaciones | Nombre, correo electrónico y contenido del mensaje, que incluye nombres de Contribuyentes y sus vencimientos |
+| **650 Industries, Inc.** (Expo) | Estados Unidos | Plataforma de desarrollo, distribución de actualizaciones y entrega de notificaciones | Identificador del dispositivo y datos técnicos |
+| **Apple Inc.** y **Google LLC** | Estados Unidos | Distribución de la Aplicación y procesamiento de compras dentro de ella | Identificador de la transacción y estado de la suscripción |
 
-> **Nota interna:** completar esta tabla con la **razón social exacta y el país**
-> de cada proveedor antes de publicar.
+Las compras dentro de la Aplicación son procesadas íntegramente por las tiendas
+de aplicaciones: **AKRUX no recibe ni almacena números de tarjeta ni datos
+financieros del Usuario**. Cuando se habiliten medios de pago propios en el sitio
+web, esta tabla se actualizará antes de su puesta en funcionamiento.
 
 **10.4.** AKRUX exige a dichos proveedores estándares de seguridad y
 confidencialidad adecuados, y les prohíbe utilizar la información para
@@ -372,8 +366,11 @@ errores y mejorar el servicio, que incluye de manera enunciativa:
 - Indicadores agregados del tipo de plan y del rango de uso.
 
 **12.2. Carácter de dato personal.** Con el fin de poder reproducir y corregir
-los fallos, **los informes de error se asocian al identificador de la cuenta y al
-correo electrónico del Usuario**. En consecuencia, **esta información constituye
+los fallos, **los informes de error se asocian al identificador interno de la
+cuenta del Usuario** (un código que permite a AKRUX vincular el informe con el
+Usuario consultando su propia base de datos). No se remite al proveedor de
+diagnóstico el correo electrónico ni el nombre del Usuario. Aun así, por ser
+información asociable a una persona determinable, **esta información constituye
 dato personal** y se trata conforme a la presente Política. AKRUX la utiliza
 exclusivamente para las finalidades de diagnóstico, seguridad y mejora del
 servicio, y no para elaborar perfiles comerciales.
@@ -410,24 +407,27 @@ conlleva la supresión de su información de cuenta y, cuando el Usuario sea el
 único miembro de su organización, de la información de sus Contribuyentes,
 vencimientos, notas y archivos asociados.
 
-**13.3. Plazos de retención posterior.** Tras la terminación de la relación o la
-eliminación de la cuenta, AKRUX podrá conservar:
+**13.3. Plazos de retención posterior.** La eliminación de la cuenta se ejecuta
+de forma **inmediata e irreversible**: AKRUX **no conserva copia operativa** de la
+información suprimida ni ofrece ventana alguna de recuperación. Únicamente
+subsisten, tras la eliminación:
 
-a) Por **[NOVENTA (90) DÍAS]**, la información necesaria para atender una
-   eventual solicitud de recuperación y para completar los procesos de
-   depuración;
+a) La información contenida en las **copias de seguridad** a que se refiere la
+   sección 13.4, hasta su sobrescritura;
 b) Por el término legal aplicable, la información necesaria para cumplir
-   obligaciones **contables, tributarias y comerciales** (en general, diez (10)
-   años conforme al artículo 28 de la Ley 962 de 2005 y al artículo 60 del Código
-   de Comercio);
+   obligaciones **contables, tributarias y comerciales** derivadas de los pagos
+   efectuados por el Usuario —esto es, los soportes de facturación, que se
+   conservan con independencia de la cuenta— en general, diez (10) años conforme
+   al artículo 28 de la Ley 962 de 2005 y al artículo 60 del Código de Comercio;
 c) Por el término de prescripción de las acciones correspondientes, la
-   información necesaria para el **ejercicio o la defensa de reclamaciones**;
-d) La **prueba de la autorización** otorgada, mientras subsista la obligación
-   legal de acreditarla.
+   información necesaria para el **ejercicio o la defensa de reclamaciones**, en
+   caso de que exista una controversia en curso al momento de la eliminación.
 
 **13.4. Copias de seguridad.** La información puede permanecer en copias de
-seguridad cifradas durante un período adicional de **[TREINTA (30) DÍAS]**,
-tras el cual es sobrescrita conforme al ciclo de rotación de respaldos.
+seguridad cifradas durante un período adicional de **SIETE (7) DÍAS**, tras el
+cual es sobrescrita conforme al ciclo de rotación de respaldos de la
+infraestructura. Dichas copias no son consultables para fines operativos y se
+utilizan exclusivamente para la recuperación ante desastres.
 
 **13.5.** Vencidos los plazos aplicables, la información se suprime o se
 anonimiza de forma irreversible.
@@ -488,7 +488,7 @@ artículo 2.2.2.25.3.4 del Decreto 1074 de 2015.
 
 ## 18. VIGENCIA
 
-La presente Política rige a partir del **[FECHA DE PUBLICACIÓN]** y deja sin
+La presente Política rige a partir del **27 de julio de 2026** y deja sin
 efecto las versiones anteriores. Las bases de datos administradas se conservarán
 por el tiempo necesario para cumplir las finalidades del tratamiento y los plazos
 legales aplicables, conforme a la sección 13.
@@ -504,13 +504,12 @@ Superintendencia de Industria y Comercio — www.sic.gov.co
 
 ## 20. CONTACTO
 
-**AKRUX S.A.S.** — NIT [NIT]
+**AKRUX S.A.S.** — NIT 902.086.312-4
 Área de Protección de Datos Personales
-Correo electrónico: **soporte@venciapp.co**
-Domicilio: [DIRECCIÓN], [CIUDAD], Colombia
-Teléfono: [TELÉFONO]
+Correo electrónico: **admin@venciapp.co**
+Domicilio: Diagonal 8 Sur # 39A - 138, Villavicencio, Meta, Colombia
+Teléfono: +57 314 217 3610
 
 ---
 
-*Versión 2.0 — [FECHA DE PUBLICACIÓN]. Documento sujeto a revisión y validación
-por abogado colombiano antes de su publicación.*
+*Versión 2.0 — 27 de julio de 2026.*

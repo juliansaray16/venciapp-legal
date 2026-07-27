@@ -1,16 +1,8 @@
 # TÉRMINOS Y CONDICIONES DE USO DE VENCIAPP
 
-**Última actualización:** [FECHA DE PUBLICACIÓN]
+**Última actualización:** 27 de julio de 2026
 **Versión:** 2.0
 **Vigencia:** desde su publicación
-
----
-
-> **NOTA INTERNA — BORRAR ANTES DE PUBLICAR.** Documento preparado para revisión
-> de abogado colombiano. Los campos entre corchetes `[ ]` deben completarse con
-> información real y verificada. Ver `NOTAS_LEGALES_INTERNAS.md` para la lista de
-> requisitos técnicos que deben quedar implementados **antes** de publicar estos
-> Términos, porque el documento afirma hechos que hoy el software no cumple.
 
 ---
 
@@ -35,8 +27,8 @@ El presente documento regula el acceso y uso de la aplicación **VenciApp** (en
 adelante, la "Aplicación" o "VenciApp"), en sus versiones móvil y web, de
 titularidad de **AKRUX S.A.S.**, sociedad comercial constituida y existente
 conforme a las leyes de la República de Colombia, identificada con **NIT
-[NIT] - [DV]**, con domicilio principal en **[DIRECCIÓN], [CIUDAD], Colombia**,
-y correo electrónico de contacto **soporte@venciapp.co** (en adelante, el
+902.086.312-4**, con domicilio principal en **Diagonal 8 Sur # 39A - 138, Villavicencio, Meta, Colombia**,
+y correo electrónico de contacto **admin@venciapp.co** (en adelante, el
 "Titular" o "AKRUX").
 
 "VenciApp" es una marca de titularidad de AKRUX S.A.S. Toda referencia comercial
@@ -591,7 +583,7 @@ declararse alguna responsabilidad del Titular, esta se limitará —en la máxim
 medida permitida por la ley— al **menor valor entre (i) el total efectivamente
 pagado por el Usuario por concepto de suscripción durante los doce (12) meses
 inmediatamente anteriores al hecho que originó la reclamación, y (ii)
-[UN (1) SMMLV]**. Para los Usuarios de Planes gratuitos, dicho límite será cero.
+UN (1) SMMLV**. Para los Usuarios de Planes gratuitos, dicho límite será cero.
 
 **20.5. Salvedades.** Las limitaciones y exclusiones de esta cláusula **no
 aplican** en caso de dolo o culpa grave del Titular, ni respecto de los derechos
@@ -647,7 +639,7 @@ licencia otorgada. Las sumas pagadas por períodos en curso no serán
 reembolsables, salvo lo previsto en la cláusula 17.3 y en la ley.
 
 **23.4. Retención y supresión de datos.** Tras la terminación, el Titular
-conservará la información del Usuario por un período de **[NOVENTA (90) DÍAS]**
+conservará la información del Usuario por un período de **NOVENTA (90) DÍAS**
 calendario, durante el cual el Usuario podrá solicitar su recuperación o
 exportación. Vencido dicho plazo, la información será suprimida o anonimizada,
 salvo la que deba conservarse por obligación legal, por necesidad de acreditar el
@@ -703,7 +695,7 @@ electrónico. La imposibilidad de entrega por causas atribuibles al Usuario no
 afectará la eficacia de la comunicación.
 
 **26.3.** Las comunicaciones del Usuario al Titular deberán dirigirse a
-**soporte@venciapp.co**.
+**admin@venciapp.co**.
 
 ## 27. PROTECCIÓN DE DATOS PERSONALES
 
@@ -761,11 +753,10 @@ del consumidor disponga lo contrario.
 Para cualquier consulta, petición o reclamo relacionado con estos Términos, el
 Usuario puede comunicarse con:
 
-**AKRUX S.A.S.** — NIT [NIT]
-Correo electrónico: **soporte@venciapp.co**
-Domicilio: [DIRECCIÓN], [CIUDAD], Colombia
+**AKRUX S.A.S.** — NIT 902.086.312-4
+Correo electrónico: **admin@venciapp.co**
+Domicilio: Diagonal 8 Sur # 39A - 138, Villavicencio, Meta, Colombia
 
 ---
 
-*Versión 2.0 — [FECHA DE PUBLICACIÓN]. Documento sujeto a revisión y validación
-por abogado colombiano antes de su publicación.*
+*Versión 2.0 — 27 de julio de 2026.*
