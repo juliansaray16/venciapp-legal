@@ -1,3 +1,15 @@
 title: VenciApp — Documentos legales
 description: Política de privacidad y términos de uso de VenciApp
 theme: jekyll-theme-cayman
+
+# Jekyll publica TODO archivo .md de la raiz salvo que se excluya aqui.
+# Este repo es PUBLICO: cualquier nota de trabajo que se deje en la raiz queda
+# servida en juliansaray16.github.io. Regla: aqui solo van documentos
+# destinados al publico; las notas internas van al repo privado Venciapp
+# (docs/). Este exclude es la segunda linea de defensa, no la primera.
+exclude:
+  - NOTAS_LEGALES_INTERNAS.md
+  - "NOTAS_*.md"
+  - "*_INTERNO.md"
+  - "*_INTERNAS.md"
+  - README.md
