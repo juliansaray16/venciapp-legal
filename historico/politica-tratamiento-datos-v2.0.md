@@ -1,7 +1,7 @@
-# POLÍTICA DE TRATAMIENTO DE DATOS PERSONALES — VENCIAPP
+﻿# POLÍTICA DE TRATAMIENTO DE DATOS PERSONALES — VENCIAPP
 
-**Última actualización:** 9 de agosto de 2026
-**Versión:** 2.1
+**Última actualización:** 27 de julio de 2026
+**Versión:** 2.0
 **Vigencia:** desde su publicación
 
 ---
@@ -160,16 +160,10 @@ k) Ejercer o defender reclamaciones y derechos de AKRUX en instancias
 l) Elaborar estadísticas e información agregada y disociada, que no permite
    identificar a persona alguna;
 m) **Previa autorización específica**, enviar comunicaciones comerciales,
-   novedades y ofertas sobre productos o servicios propios;
-n) **Previa aceptación del visitante**, medir la efectividad de las campañas
-   publicitarias de VenciApp y presentar anuncios en plataformas de terceros.
-   Esta finalidad recae **únicamente sobre los datos de navegación del sitio web
-   venciapp.co**, no sobre los datos de la cuenta ni sobre los datos de
-   Contribuyentes (ver sección 12.7).
+   novedades y ofertas sobre productos o servicios propios.
 
-El Titular **puede negarse a autorizar las finalidades de los literales m) y n)**
-sin que ello afecte la prestación del servicio, y puede revocarlas en cualquier
-momento.
+El Titular **puede negarse a autorizar la finalidad del literal m)** sin que ello
+afecte la prestación del servicio, y puede revocarla en cualquier momento.
 
 ## 6. AUTORIZACIÓN
 
@@ -185,16 +179,10 @@ versión de la Política y de los Términos aceptados, el cual está disponible 
 el Titular que solicite prueba de la misma.
 
 **6.3. Autorizaciones específicas.** Las finalidades que requieren autorización
-diferenciada —comunicaciones comerciales, cookies de publicidad en el sitio web y
-transferencia internacional de datos— se solicitan de manera separada y su
-negativa no impide el uso del servicio, sin perjuicio de lo indicado en la
-sección 10 respecto de la infraestructura tecnológica.
-
-**6.4. Visitantes del sitio web.** La navegación por venciapp.co no exige crear
-una cuenta. La autorización para las cookies de publicidad descritas en la
-sección 12.7 se recoge de manera **independiente de la autorización de registro**,
-mediante el aviso de cookies del sitio, y su rechazo no limita el acceso a
-ninguna parte del sitio.
+diferenciada —comunicaciones comerciales y transferencia internacional de datos—
+se solicitan de manera separada y su negativa no impide el uso del servicio, sin
+perjuicio de lo indicado en la sección 10 respecto de la infraestructura
+tecnológica.
 
 **6.4.** El Titular puede **revocar la autorización** en cualquier momento,
 conforme al procedimiento de la sección 9, salvo cuando exista un deber legal o
@@ -313,17 +301,6 @@ proveedores, con quienes mantiene los respectivos acuerdos de tratamiento:
 | **Resend** | Estados Unidos | Envío de correo transaccional: recordatorios, avisos e invitaciones | Nombre, correo electrónico y contenido del mensaje, que incluye nombres de Contribuyentes y sus vencimientos |
 | **650 Industries, Inc.** (Expo) | Estados Unidos | Plataforma de desarrollo, distribución de actualizaciones y entrega de notificaciones | Identificador del dispositivo y datos técnicos |
 | **Apple Inc.** y **Google LLC** | Estados Unidos | Distribución de la Aplicación y procesamiento de compras dentro de ella | Identificador de la transacción y estado de la suscripción |
-| **Meta Platforms, Inc.** (Facebook, Instagram) | Estados Unidos e Irlanda | **Solo si el visitante lo acepta:** medición de la efectividad de la publicidad del sitio web y presentación de anuncios | Dirección IP, identificador de cookie del navegador, páginas visitadas de venciapp.co y acciones realizadas en ellas |
-
-Respecto de Meta Platforms, Inc. se precisa que: (i) la herramienta descrita en la
-sección 12.7 **permanece inactiva mientras el visitante no la acepte**; (ii) opera
-**exclusivamente en el sitio web venciapp.co**, y no en la aplicación móvil ni en
-el portal web app.venciapp.co, de modo que **no accede a datos de la cuenta ni a
-datos de Contribuyentes**; (iii) Meta trata esos datos de navegación también para
-finalidades propias y, en esa medida, actúa como **responsable independiente**
-conforme a sus propias políticas; y (iv) esta comunicación **no constituye venta
-de datos personales** en los términos del numeral 10.5, pues AKRUX no recibe
-contraprestación alguna por ella.
 
 Las compras dentro de la Aplicación son procesadas íntegramente por las tiendas
 de aplicaciones: **AKRUX no recibe ni almacena números de tarjeta ni datos
@@ -376,7 +353,7 @@ a la Superintendencia de Industria y Comercio** en los términos y plazos exigid
 por la normativa aplicable, y **comunicará el incidente a los Titulares
 afectados** cuando ello resulte procedente.
 
-## 12. TECNOLOGÍAS DE RECOLECCIÓN AUTOMÁTICA, DIAGNÓSTICO, ANALÍTICA Y PUBLICIDAD
+## 12. TECNOLOGÍAS DE RECOLECCIÓN AUTOMÁTICA, DIAGNÓSTICO Y ANALÍTICA
 
 **12.1. Información recolectada.** La Aplicación recopila automáticamente
 información técnica y de uso para analizar el desempeño, detectar y corregir
@@ -414,50 +391,10 @@ estadística agregada y disociada que no permita identificar a persona alguna, l
 cual no se considera dato personal y podrá ser utilizada sin restricción para el
 análisis y la mejora del servicio.
 
-**12.6. Sitio web: cookies necesarias y medición de audiencia.** El sitio web
-venciapp.co utiliza el almacenamiento local del navegador **estrictamente
-necesario** para su funcionamiento y para conservar la decisión del visitante
-sobre las cookies descritas en el numeral siguiente.
-
-La medición de audiencia del sitio se realiza mediante una herramienta que **no
-instala cookies ni construye un identificador de la persona**: se limita a
-contabilizar visitas de forma agregada. Por ese motivo **no requiere aceptación
-previa** y no permite reconocer a un visitante entre una sesión y otra.
-
-**12.7. Sitio web: píxel de Meta (publicidad y medición de campañas).** Cuando
-AKRUX realiza campañas publicitarias en Facebook e Instagram, el sitio web
-venciapp.co **puede** utilizar el píxel de **Meta Platforms, Inc.**, con las
-siguientes precisiones:
-
-a) **Finalidad.** Medir cuántas personas que vieron un anuncio visitaron el sitio
-   o realizaron en él acciones como consultar los planes o descargar la
-   Aplicación, y presentar anuncios a públicos similares o a quienes ya
-   visitaron el sitio (*remarketing*).
-b) **Datos recolectados.** Dirección IP, identificador de cookie del navegador,
-   páginas visitadas de venciapp.co, acciones realizadas en ellas y datos
-   técnicos del navegador y del dispositivo.
-c) **Datos que NO se recolectan.** El píxel **no opera en la aplicación móvil ni
-   en el portal web app.venciapp.co**. En consecuencia, **no accede a la cuenta
-   del Usuario ni a los datos de Contribuyentes, vencimientos, notas o archivos**.
-   AKRUX **no transmite a Meta el correo electrónico, el teléfono ni ningún otro
-   dato de contacto del Usuario** con fines de correspondencia de públicos.
-d) **Consentimiento previo.** El píxel permanece **desactivado por defecto** y
-   solo se activa si el visitante lo acepta expresamente en el aviso de cookies
-   del sitio. **Rechazarlo es tan sencillo como aceptarlo** y no restringe el
-   acceso a ninguna sección del sitio.
-e) **Responsabilidad.** Meta trata esa información también para finalidades
-   propias, como responsable independiente, conforme a su propia política de
-   privacidad (https://www.facebook.com/privacy/policy). La transferencia a
-   Estados Unidos e Irlanda se rige por lo previsto en la sección 10.
-
-**12.8. Gestión y revocación del consentimiento.** La decisión del visitante se
-conserva en su propio navegador. El visitante puede **cambiarla o revocarla en
-cualquier momento** desde el enlace de preferencias de cookies disponible en el
-pie de página del sitio, o eliminando los datos del sitio desde la configuración
-de su navegador. La revocación **detiene la recolección hacia el futuro**; para
-solicitar la supresión de datos ya recolectados por Meta, el visitante puede
-acudir a los controles que esa plataforma ofrece o dirigirse a AKRUX conforme a
-la sección 9.
+**12.6. Sitio web.** El sitio web venciapp.co puede utilizar cookies y
+tecnologías similares, estrictamente necesarias para su funcionamiento y, previa
+aceptación del visitante, de medición de audiencia. El visitante puede
+gestionarlas desde la configuración de su navegador.
 
 ## 13. TIEMPO DE CONSERVACIÓN Y SUPRESIÓN
 
@@ -551,7 +488,7 @@ artículo 2.2.2.25.3.4 del Decreto 1074 de 2015.
 
 ## 18. VIGENCIA
 
-La presente Política rige a partir del **9 de agosto de 2026** y deja sin
+La presente Política rige a partir del **27 de julio de 2026** y deja sin
 efecto las versiones anteriores. Las bases de datos administradas se conservarán
 por el tiempo necesario para cumplir las finalidades del tratamiento y los plazos
 legales aplicables, conforme a la sección 13.
@@ -575,4 +512,4 @@ Superintendencia de Industria y Comercio — www.sic.gov.co
 
 ---
 
-*Versión 2.1 — 9 de agosto de 2026.*
+*Versión 2.0 — 27 de julio de 2026.*
