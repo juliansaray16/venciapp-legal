@@ -1,7 +1,7 @@
 # TÉRMINOS Y CONDICIONES DE USO DE VENCIAPP
 
 **Última actualización:** 2 de septiembre de 2026
-**Versión:** 2.1
+**Versión:** 2.2
 **Vigencia:** desde su publicación
 
 ---
@@ -763,6 +763,26 @@ afectará la eficacia de la comunicación.
 **26.3.** Las comunicaciones del Usuario al Titular deberán dirigirse a
 **admin@venciapp.co**.
 
+**26.4. Comunicaciones del servicio y comunicaciones comerciales.** Las
+comunicaciones a que se refieren los numerales anteriores son **comunicaciones
+del servicio**: derivan de la ejecución de este contrato —verificación de la
+Cuenta, recuperación de la contraseña, recordatorios de vencimientos,
+invitaciones a una organización, avisos sobre el plan o la suscripción, avisos de
+seguridad y comunicación de cambios en estos Términos o en la Política de
+Tratamiento de Datos Personales— y **no dependen de una autorización adicional ni
+son susceptibles de baja** mientras la Cuenta esté activa, sin perjuicio de que el
+Usuario configure los canales, los días y las horas de los recordatorios desde la
+Aplicación.
+
+Las **comunicaciones comerciales** —novedades, promociones y ofertas sobre
+productos o servicios del Titular— son de naturaleza distinta: requieren
+**autorización previa, expresa y separada** del Usuario, que se solicita mediante
+casilla independiente y desmarcada por defecto en el formulario de registro. **Su
+negativa no impide crear la Cuenta ni restringe funcionalidad alguna**, y el
+Usuario puede otorgarlas o revocarlas en cualquier momento, sin costo, desde la
+sección **Notificaciones** de la Aplicación o escribiendo a **admin@venciapp.co**,
+conforme al numeral 6.3 de la Política de Tratamiento de Datos Personales.
+
 ## 27. PROTECCIÓN DE DATOS PERSONALES
 
 El tratamiento de los datos personales del Usuario, de los Usuarios Adicionales y
@@ -826,4 +846,4 @@ Usuario puede comunicarse con:
 
 ---
 
-*Versión 2.1 — 2 de septiembre de 2026.*
+*Versión 2.2 — 2 de septiembre de 2026.*

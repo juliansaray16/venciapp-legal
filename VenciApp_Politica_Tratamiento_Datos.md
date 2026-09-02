@@ -1,7 +1,7 @@
 # POLÍTICA DE TRATAMIENTO DE DATOS PERSONALES — VENCIAPP
 
 **Última actualización:** 2 de septiembre de 2026
-**Versión:** 2.2
+**Versión:** 2.3
 **Vigencia:** desde su publicación
 
 ---
@@ -190,13 +190,38 @@ transferencia internacional de datos— se solicitan de manera separada y su
 negativa no impide el uso del servicio, sin perjuicio de lo indicado en la
 sección 10 respecto de la infraestructura tecnológica.
 
+**6.3.1. Comunicaciones comerciales.** La autorización para la finalidad del
+literal m) de la sección 5 se recoge mediante una **casilla independiente y
+desmarcada por defecto** en el formulario de registro, adicional a la casilla de
+aceptación de esta Política y de los Términos. **No marcarla no impide crear la
+cuenta** ni limita funcionalidad alguna. El Usuario puede **otorgarla o revocarla
+en cualquier momento**, sin costo y sin necesidad de justificación, desde la
+sección **Notificaciones** de la Aplicación o escribiendo a
+**admin@venciapp.co**. La revocación surte efecto hacia el futuro y no afecta la
+licitud del tratamiento anterior.
+
+**6.3.2. Prueba de la decisión.** AKRUX conserva registro electrónico de **cada
+otorgamiento y de cada revocación** de la autorización descrita en el numeral
+anterior, con indicación de la fecha, la hora, el medio por el que se manifestó y
+la versión de esta Política vigente en ese momento, en los términos del artículo
+12 de la Ley 1581 de 2012.
+
+**6.3.3. Comunicaciones excluidas.** Esta autorización **no comprende las
+comunicaciones necesarias para la ejecución del contrato** —verificación de la
+cuenta, recuperación de la contraseña, recordatorios de vencimientos,
+invitaciones a una organización, avisos sobre el plan o la suscripción, avisos de
+seguridad y comunicación de cambios en esta Política o en los Términos—, que
+corresponden al literal c) de la sección 5 y se remiten mientras la cuenta esté
+activa. El Usuario configura los canales, días y horas de los recordatorios desde
+la propia Aplicación.
+
 **6.4. Visitantes del sitio web.** La navegación por venciapp.co no exige crear
 una cuenta. La autorización para las cookies de publicidad descritas en la
 sección 12.7 se recoge de manera **independiente de la autorización de registro**,
 mediante el aviso de cookies del sitio, y su rechazo no limita el acceso a
 ninguna parte del sitio.
 
-**6.4.** El Titular puede **revocar la autorización** en cualquier momento,
+**6.5.** El Titular puede **revocar la autorización** en cualquier momento,
 conforme al procedimiento de la sección 9, salvo cuando exista un deber legal o
 contractual de permanencia del dato.
 
@@ -602,4 +627,4 @@ Superintendencia de Industria y Comercio — www.sic.gov.co
 
 ---
 
-*Versión 2.1 — 9 de agosto de 2026.*
+*Versión 2.3 — 2 de septiembre de 2026.*
