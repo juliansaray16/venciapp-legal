@@ -1,7 +1,7 @@
 # POLÍTICA DE TRATAMIENTO DE DATOS PERSONALES — VENCIAPP
 
-**Última actualización:** 9 de agosto de 2026
-**Versión:** 2.1
+**Última actualización:** 2 de septiembre de 2026
+**Versión:** 2.2
 **Vigencia:** desde su publicación
 
 ---
@@ -250,6 +250,13 @@ Estos derechos podrán ser ejercidos por el Titular, sus causahabientes, su
 representante o apoderado, y por quienes actúen por estipulación a favor de otro,
 acreditando debidamente su calidad.
 
+> **Nota sobre el derecho de retracto y la reversión del pago.** Estos dos
+> derechos **no son derechos de Habeas Data** —no derivan de la Ley 1581 de 2012,
+> sino del Estatuto del Consumidor (Ley 1480 de 2011, artículos 47 y 51)— y por
+> ello no se regulan en esta Política, sino en la **cláusula 13 de los Términos y
+> Condiciones**, disponible en https://venciapp.co/terminos. Se deja aquí esta
+> remisión para facilitar su consulta.
+
 ## 9. PROCEDIMIENTO PARA CONSULTAS Y RECLAMOS
 
 **9.1. Canal de atención.** Los Titulares pueden ejercer sus derechos enviando su
@@ -313,6 +320,7 @@ proveedores, con quienes mantiene los respectivos acuerdos de tratamiento:
 | **Resend** | Estados Unidos | Envío de correo transaccional: recordatorios, avisos e invitaciones | Nombre, correo electrónico y contenido del mensaje, que incluye nombres de Contribuyentes y sus vencimientos |
 | **650 Industries, Inc.** (Expo) | Estados Unidos | Plataforma de desarrollo, distribución de actualizaciones y entrega de notificaciones | Identificador del dispositivo y datos técnicos |
 | **Apple Inc.** y **Google LLC** | Estados Unidos | Distribución de la Aplicación y procesamiento de compras dentro de ella | Identificador de la transacción y estado de la suscripción |
+| **RevenueCat, Inc.** | Estados Unidos | Validación de las compras realizadas en las tiendas y administración del estado de la suscripción del Usuario | Identificador interno de la cuenta, identificadores de la transacción provistos por la tienda y estado de la suscripción. **No recibe el nombre, el correo electrónico ni dato alguno de Contribuyentes** |
 | **Meta Platforms, Inc.** (Facebook, Instagram) | Estados Unidos e Irlanda | **Solo si el visitante lo acepta:** medición de la efectividad de la publicidad del sitio web y presentación de anuncios | Dirección IP, identificador de cookie del navegador, páginas visitadas de venciapp.co y acciones realizadas en ellas |
 
 Respecto de Meta Platforms, Inc. se precisa que: (i) la herramienta descrita en la
@@ -327,8 +335,11 @@ contraprestación alguna por ella.
 
 Las compras dentro de la Aplicación son procesadas íntegramente por las tiendas
 de aplicaciones: **AKRUX no recibe ni almacena números de tarjeta ni datos
-financieros del Usuario**. Cuando se habiliten medios de pago propios en el sitio
-web, esta tabla se actualizará antes de su puesta en funcionamiento.
+financieros del Usuario**. RevenueCat, Inc. interviene únicamente para verificar
+ante Apple y Google que una compra es válida y para informar a la Aplicación qué
+plan tiene activo el Usuario; **tampoco accede a datos financieros del medio de
+pago**. Cuando se habiliten medios de pago propios en el sitio web, esta tabla se
+actualizará antes de su puesta en funcionamiento.
 
 **10.4.** AKRUX exige a dichos proveedores estándares de seguridad y
 confidencialidad adecuados, y les prohíbe utilizar la información para
@@ -355,8 +366,13 @@ uso o acceso no autorizado o fraudulento, entre ellas:
   modo que **no son conocidas ni recuperables por AKRUX**;
 - Control de acceso a nivel de fila en la base de datos, de manera que cada
   organización solo accede a su propia información;
+- Control de acceso **a nivel de columna**, de modo que el Usuario solo puede
+  modificar los campos de su propio perfil y no aquellos que determinan su plan,
+  su rol, su condición de administrador o la organización a la que pertenece;
 - Almacenamiento de archivos en repositorios privados, no accesibles
-  públicamente;
+  públicamente, cuyo acceso se restringe además **a los Contribuyentes
+  efectivamente asignados** a cada usuario adicional, de forma equivalente a la
+  restricción aplicable al resto de su información;
 - Segregación de ambientes de desarrollo y producción;
 - Principio de mínimo privilegio en el acceso del personal;
 - Registro de auditoría de operaciones sensibles;
@@ -495,6 +511,17 @@ utilizan exclusivamente para la recuperación ante desastres.
 **13.5.** Vencidos los plazos aplicables, la información se suprime o se
 anonimiza de forma irreversible.
 
+**13.6. Plazos específicos.** Además de lo anterior, AKRUX aplica de forma
+automatizada los siguientes plazos:
+
+| Información | Plazo de conservación |
+|---|---|
+| Cuentas registradas cuya dirección de correo electrónico nunca fue confirmada | Se eliminan automáticamente a las **VEINTICUATRO (24) HORAS** del registro |
+| Histórico de vencimientos ya cumplidos o archivados | El año en curso y los **TRES (3) AÑOS** anteriores; la depuración se ejecuta durante el proceso anual de apertura del año fiscal |
+| Registros técnicos del procesamiento masivo de vencimientos | **NOVENTA (90) DÍAS** |
+| Registro de las versiones de la Aplicación utilizadas por el Usuario | Se elimina junto con la cuenta |
+| Eventos de compra y suscripción reportados por las tiendas de aplicaciones | Se conservan por razones contables y de conciliación con el proveedor de pagos; al eliminarse la cuenta **quedan desvinculados del Usuario de forma irreversible**, por lo que dejan de constituir dato personal |
+
 ## 14. DATOS SENSIBLES Y DE NIÑOS, NIÑAS Y ADOLESCENTES
 
 **14.1.** AKRUX **no solicita ni recolecta datos sensibles** para la prestación
@@ -551,7 +578,7 @@ artículo 2.2.2.25.3.4 del Decreto 1074 de 2015.
 
 ## 18. VIGENCIA
 
-La presente Política rige a partir del **9 de agosto de 2026** y deja sin
+La presente Política rige a partir del **2 de septiembre de 2026** y deja sin
 efecto las versiones anteriores. Las bases de datos administradas se conservarán
 por el tiempo necesario para cumplir las finalidades del tratamiento y los plazos
 legales aplicables, conforme a la sección 13.

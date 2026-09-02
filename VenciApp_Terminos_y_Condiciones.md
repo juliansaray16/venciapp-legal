@@ -1,7 +1,7 @@
 # TÉRMINOS Y CONDICIONES DE USO DE VENCIAPP
 
-**Última actualización:** 27 de julio de 2026
-**Versión:** 2.0
+**Última actualización:** 2 de septiembre de 2026
+**Versión:** 2.1
 **Vigencia:** desde su publicación
 
 ---
@@ -354,7 +354,8 @@ cancele la renovación con al menos veinticuatro (24) horas de antelación al
 término del período en curso**, o el plazo que establezca la plataforma. El
 Usuario puede gestionar o cancelar la renovación desde la configuración de su
 cuenta en la App Store o en Google Play; **la cancelación surte efecto al
-finalizar el período ya pagado y no genera reembolso proporcional**.
+finalizar el período ya pagado y no genera reembolso proporcional**, todo ello
+**sin perjuicio del derecho de retracto de la cláusula 13**.
 
 **11.4. Pagos por otros medios.** Cuando el Titular habilite el pago directo, la
 suscripción podrá ser **prepagada y no automáticamente renovable**, en cuyo caso
@@ -377,8 +378,10 @@ comunicación, sin perjuicio del cobro de las sumas causadas.
 
 **11.8. Degradación de Plan.** Si el Usuario desciende a un Plan con límites
 inferiores a su uso actual, el Titular podrá restringir la creación de nuevos
-registros y el acceso a funcionalidades premium, conservando la información
-existente durante el período de retención previsto en la cláusula 23.4.
+registros y el acceso a funcionalidades premium. **La información existente no se
+elimina por este hecho**: los registros que excedan el nuevo límite quedan
+bloqueados y vuelven a estar disponibles si el Usuario contrata nuevamente un
+Plan con capacidad suficiente.
 
 ## 12. PRUEBA GRATUITA
 
@@ -398,27 +401,56 @@ conforme a la cláusula 23.4.
 
 ## 13. DERECHO DE RETRACTO, REVERSIÓN Y REEMBOLSOS
 
-**13.1. Retracto.** De conformidad con el artículo 47 de la Ley 1480 de 2011, y
-cuando dicha norma resulte aplicable, el consumidor podrá retractarse dentro de
-los cinco (5) días hábiles siguientes. **El Usuario acepta expresamente que la
-prestación del servicio inicia de forma inmediata a partir de la contratación**,
-por lo que, en los términos del parágrafo del citado artículo, **el derecho de
-retracto no resulta aplicable a los servicios digitales cuya ejecución haya
-comenzado con su consentimiento previo y expreso**.
+**13.1. Derecho de retracto.** Por tratarse de una contratación celebrada a
+distancia, el Usuario que tenga la calidad de consumidor **puede ejercer el
+derecho de retracto previsto en el artículo 47 de la Ley 1480 de 2011**, dentro
+de los **CINCO (5) DÍAS HÁBILES** siguientes a la contratación del Plan, **sin
+necesidad de justificar su decisión y sin que ello genere penalidad alguna**.
 
-**13.2. Reversión del pago.** Cuando resulte aplicable el artículo 51 de la Ley
+**13.2. Cómo se ejerce.** Basta con comunicarlo al Titular por cualquier medio
+idóneo, y en particular al correo **admin@venciapp.co**, indicando el nombre del
+Usuario, el correo de la Cuenta y la fecha de la compra. Recibida la solicitud
+dentro del plazo, el Titular **resolverá la suscripción y devolverá la totalidad
+de las sumas pagadas dentro de los TREINTA (30) DÍAS CALENDARIO** siguientes,
+conforme al citado artículo, utilizando el mismo medio de pago empleado en la
+transacción. Ejercido el retracto, **cesa el acceso a las funcionalidades del
+Plan**, sin perjuicio de que el Usuario conserve su Cuenta y la información en
+ella contenida.
+
+**13.3. Compras realizadas dentro de la Aplicación.** Cuando el pago se haya
+efectuado a través de las tiendas de aplicaciones, **la devolución material del
+dinero la ejecuta Apple o Google**, que son quienes cobraron y quienes controlan
+el medio de pago; el Titular **no recibe ni custodia esos fondos**. En tal caso
+el Titular **tramitará y apoyará la solicitud ante la tienda correspondiente y
+resolverá de inmediato la suscripción de su lado**, de modo que el ejercicio del
+retracto no dependa de que el Usuario negocie por su cuenta con un tercero. Si la
+tienda no efectuara la devolución dentro del plazo del numeral 13.2, **el Titular
+la asumirá directamente**.
+
+**13.4. Prueba gratuita.** El derecho de retracto es **adicional e independiente**
+de la prueba gratuita a que se refiere la cláusula 12, cuya duración se informa al
+momento de la activación y que permite al Usuario evaluar el servicio completo
+antes de efectuar pago alguno. Haber utilizado la prueba **no limita ni extingue**
+el derecho reconocido en esta cláusula.
+
+**13.5. Reversión del pago.** Cuando resulte aplicable el artículo 51 de la Ley
 1480 de 2011 y su reglamentación, el Usuario podrá solicitar la reversión del
-pago en los casos y condiciones allí previstos.
+pago en los casos y condiciones allí previstos, dirigiéndose al Titular por el
+canal indicado en el numeral 13.2 y, cuando corresponda, a su emisor de tarjeta o
+a la tienda de aplicaciones.
 
-**13.3. Reembolsos.** Las solicitudes de reembolso, reversión o cancelación de
-pagos realizados a través de las tiendas de aplicaciones **se rigen
-exclusivamente por las políticas de Apple y de Google** y deben tramitarse ante
-ellas; el Titular carece de control sobre dichas decisiones. Fuera de tales
-casos y de los derechos irrenunciables del consumidor, **las sumas pagadas no son
-reembolsables**, incluidos los períodos parcialmente utilizados.
+**13.6. Reembolsos por fuera del retracto.** Vencido el plazo del numeral 13.1, y
+**sin perjuicio de los derechos irrenunciables del consumidor y de las garantías
+legales**, las sumas pagadas no son reembolsables, incluidos los períodos
+parcialmente utilizados; la cancelación de la suscripción no da derecho a
+reembolso del período en curso. Las políticas de reembolso propias de Apple y de
+Google son **adicionales** a lo aquí previsto y el Usuario puede acudir a ellas
+libremente.
 
-**13.4.** La cancelación de la suscripción no da derecho a reembolso del período
-en curso, sin perjuicio de lo dispuesto en la ley.
+> **Nada de lo previsto en esta cláusula puede interpretarse como una renuncia
+> anticipada, una limitación o una condición al ejercicio de los derechos que la
+> Ley 1480 de 2011 reconoce al consumidor.** Conforme al numeral 2 del artículo 43
+> de dicha ley, cualquier estipulación en tal sentido se tendría por no escrita.
 
 ## 14. USO ACEPTABLE
 
@@ -491,10 +523,13 @@ de la Aplicación e información técnica del dispositivo y del sistema operativ
 con la finalidad de detectar y corregir fallos, analizar el desempeño y mejorar
 el servicio.
 
-**16.2.** Para permitir el diagnóstico, **los informes de error pueden asociarse
-al identificador de cuenta y al correo electrónico del Usuario**, por lo que
-constituyen datos personales y se tratan conforme a la Política de Tratamiento
-de Datos Personales.
+**16.2.** Para permitir el diagnóstico, **los informes de error se asocian
+únicamente al identificador interno de la cuenta del Usuario** —un código que
+permite al Titular vincular el informe consultando su propia base de datos—.
+**No se remite al proveedor de diagnóstico el correo electrónico ni el nombre del
+Usuario.** Aun así, por tratarse de información asociable a una persona
+determinable, constituye dato personal y se trata conforme a la Política de
+Tratamiento de Datos Personales.
 
 **16.3.** Esta información **no incluye el contenido de la información ingresada
 sobre los Contribuyentes** (nombres, números de documento, notas o archivos).
@@ -658,15 +693,26 @@ aviso con treinta (30) días calendario de antelación.
 licencia otorgada. Las sumas pagadas por períodos en curso no serán
 reembolsables, salvo lo previsto en la cláusula 17.3 y en la ley.
 
-**23.4. Retención y supresión de datos.** Tras la terminación, el Titular
-conservará la información del Usuario por un período de **NOVENTA (90) DÍAS**
-calendario, durante el cual el Usuario podrá solicitar su recuperación o
-exportación. Vencido dicho plazo, la información será suprimida o anonimizada,
-salvo la que deba conservarse por obligación legal, por necesidad de acreditar el
-cumplimiento de deberes en materia de protección de datos, o para el ejercicio o
-defensa de reclamaciones. **La eliminación de la Cuenta a solicitud del Usuario
-es irreversible** y puede implicar la pérdida definitiva de la información
-asociada, incluidos notas y archivos.
+**23.4. Retención y supresión de datos.** El efecto sobre la información depende
+de cómo termine la relación, y es distinto en cada caso:
+
+a) **Si el Usuario elimina su Cuenta desde la Aplicación**, la supresión se
+   ejecuta de forma **inmediata e irreversible**. El Titular **no conserva copia
+   operativa de la información suprimida ni ofrece ventana alguna de
+   recuperación**, por lo que la pérdida de Contribuyentes, vencimientos, notas y
+   archivos es definitiva. Se recomienda al Usuario **exportar previamente** la
+   información que desee conservar, utilizando las funciones de informe y
+   exportación de la Aplicación.
+b) **Si la relación termina por vencimiento del plan, por falta de pago o por
+   decisión del Titular conforme a la cláusula 23.2**, la Cuenta pierde el acceso
+   a las funcionalidades de pago pero **la información no se suprime por ese solo
+   hecho**: se conserva conforme a la sección 13 de la Política de Tratamiento de
+   Datos Personales, y el Usuario puede recuperar el acceso contratando un Plan o
+   solicitar copia de sus datos por el canal de la sección 9 de dicha Política.
+
+En ambos casos subsiste la información que deba conservarse por obligación legal,
+contable o tributaria, por necesidad de acreditar el cumplimiento de deberes en
+materia de protección de datos, o para el ejercicio o defensa de reclamaciones.
 
 **23.5. Supervivencia.** Sobrevivirán a la terminación las cláusulas 9, 10.2,
 15, 19, 20, 21, 23.4, 28 y 29, así como cualquier otra que por su naturaleza deba
@@ -780,4 +826,4 @@ Usuario puede comunicarse con:
 
 ---
 
-*Versión 2.0 — 27 de julio de 2026.*
+*Versión 2.1 — 2 de septiembre de 2026.*
