@@ -383,6 +383,42 @@ elimina por este hecho**: los registros que excedan el nuevo límite quedan
 bloqueados y vuelven a estar disponibles si el Usuario contrata nuevamente un
 Plan con capacidad suficiente.
 
+**11.9. Cambios de Plan en el canal de pago directo.** Cuando la suscripción se
+haya adquirido por los medios dispuestos en el sitio web oficial (numeral 11.4),
+el cambio de Plan se rige por las siguientes reglas, que se informan al Usuario
+antes de confirmar el pago:
+
+a) **Contratar un Plan otorga siempre un (1) año completo** contado desde la
+   fecha del pago.
+
+b) **El tiempo ya pagado y no disfrutado no se pierde: se reconoce por su
+   valor.** Si el Usuario contrata el mismo Plan, ese tiempo se conserva
+   íntegramente. Si contrata un Plan de mayor precio, el tiempo restante se
+   convierte a días del nuevo Plan **en la proporción que exista entre el precio
+   del Plan anterior y el del nuevo**, sin que dicha conversión pueda
+   incrementar el tiempo restante. El resultado se suma al año del literal a).
+
+c) **Solo se reconoce el tiempo efectivamente pagado por este canal.** Los
+   períodos de prueba gratuita y cualquier tiempo otorgado a título de
+   cortesía no se acumulan al Plan contratado y **cesan con la contratación**,
+   del mismo modo que ocurre en las tiendas de aplicaciones.
+
+d) **El cambio a un Plan de menor precio solo puede efectuarse al término del
+   período ya pagado.** Mientras dicho período esté vigente, el Usuario conserva
+   el Plan contratado; la contratación del Plan inferior queda disponible a su
+   vencimiento. Esta regla no restringe el derecho de retracto de la cláusula 13
+   ni el remedio del numeral 17.3.
+
+e) **Los canales de contratación no se cruzan.** Mientras exista una suscripción
+   vigente adquirida en una tienda de aplicaciones, no podrá contratarse ni
+   cambiarse el Plan por pago directo, y viceversa. Para trasladarse de un canal
+   al otro, el Usuario debe **cancelar la suscripción en el canal de origen y
+   esperar a que concluya el período ya pagado**. Esta limitación obedece a que
+   cada canal tiene su propio cobro, su propia renovación y su propio mecanismo
+   de devolución, y no existe forma de trasladar una suscripción entre ellos.
+   Si pese a esta regla llegara a producirse un solapamiento entre canales, se
+   estará a lo previsto en el **numeral 13.8**.
+
 ## 12. PRUEBA GRATUITA
 
 **12.1.** El Titular podrá ofrecer períodos de prueba gratuita, cuya duración y
@@ -427,25 +463,65 @@ retracto no dependa de que el Usuario negocie por su cuenta con un tercero. Si l
 tienda no efectuara la devolución dentro del plazo del numeral 13.2, **el Titular
 la asumirá directamente**.
 
-**13.4. Prueba gratuita.** El derecho de retracto es **adicional e independiente**
+**13.4. Compras realizadas por pago directo.** Cuando el pago se haya efectuado
+por los medios dispuestos en el sitio web oficial (numeral 11.4), **el cobro lo
+recibe el Titular** y no interviene tienda de aplicaciones alguna. En tal caso el
+Titular **ejecuta directamente la devolución**, sin que el Usuario deba gestionar
+nada ante un tercero, dentro del plazo del numeral 13.2. Cuando el medio de pago
+empleado no admita el abono por la misma vía —como ocurre con los débitos a
+cuenta bancaria— la devolución se hará por transferencia a una cuenta a nombre
+del Usuario, quien deberá suministrar los datos necesarios; **el plazo del
+numeral 13.2 se contará desde que el Usuario los suministre**, y el Titular se
+los solicitará dentro de los cinco (5) días hábiles siguientes a la solicitud.
+
+**13.5. Prueba gratuita.** El derecho de retracto es **adicional e independiente**
 de la prueba gratuita a que se refiere la cláusula 12, cuya duración se informa al
 momento de la activación y que permite al Usuario evaluar el servicio completo
 antes de efectuar pago alguno. Haber utilizado la prueba **no limita ni extingue**
 el derecho reconocido en esta cláusula.
 
-**13.5. Reversión del pago.** Cuando resulte aplicable el artículo 51 de la Ley
+**13.6. Reversión del pago.** Cuando resulte aplicable el artículo 51 de la Ley
 1480 de 2011 y su reglamentación, el Usuario podrá solicitar la reversión del
 pago en los casos y condiciones allí previstos, dirigiéndose al Titular por el
-canal indicado en el numeral 13.2 y, cuando corresponda, a su emisor de tarjeta o
-a la tienda de aplicaciones.
+canal indicado en el numeral 13.2 y, cuando corresponda, **a la entidad emisora
+del instrumento de pago electrónico utilizado —tarjeta de crédito o débito,
+débito a cuenta bancaria u otro—** o a la tienda de aplicaciones.
 
-**13.6. Reembolsos por fuera del retracto.** Vencido el plazo del numeral 13.1, y
+**13.7. Reembolsos por fuera del retracto.** Vencido el plazo del numeral 13.1, y
 **sin perjuicio de los derechos irrenunciables del consumidor y de las garantías
 legales**, las sumas pagadas no son reembolsables, incluidos los períodos
 parcialmente utilizados; la cancelación de la suscripción no da derecho a
 reembolso del período en curso. Las políticas de reembolso propias de Apple y de
 Google son **adicionales** a lo aquí previsto y el Usuario puede acudir a ellas
-libremente.
+libremente. En el canal de pago directo no existe una política de tienda a la
+cual acudir, por lo que **las vías disponibles son las de los numerales 13.1,
+13.6, 13.8 y 17.3**, además de las que la ley reconozca.
+
+**13.8. Solapamiento entre canales de pago.** Pese a la regla del numeral 11.9
+literal e), puede ocurrir que el Usuario adquiera una suscripción en una tienda
+de aplicaciones conservando un período vigente ya pagado por pago directo: esa
+compra se perfecciona dentro de la propia tienda y el Titular solo tiene noticia
+de ella cuando el cobro ya se ha efectuado. Para ese supuesto:
+
+a) **El tiempo ya pagado no se pierde.** El acceso del Usuario se mantiene hasta
+   la más lejana de las dos fechas —la del período pagado por pago directo o la
+   de la suscripción adquirida en la tienda—, sin necesidad de solicitud alguna
+   y sin costo adicional.
+
+b) **Si del solapamiento resulta que el Usuario pagó dos veces un mismo lapso**,
+   podrá optar entre: (i) que el Titular **extienda la suscripción en la tienda**
+   por un tiempo equivalente al solapamiento, cuando la tienda lo permita; o
+   (ii) el **reembolso de la parte proporcional del período pagado por pago
+   directo que resulte solapada**, liquidado en proporción a los días solapados
+   sobre el total del período contratado.
+
+c) La opción (ii) constituye una **excepción expresa** a la regla de no
+   reembolso del numeral 13.7, y se ejecuta conforme al numeral 13.4. La
+   solicitud se presenta por el medio previsto en el numeral 13.2.
+
+d) Lo previsto en este numeral **no sustituye ni limita** el derecho de retracto
+   del numeral 13.1 cuando este resulte aplicable por razón del plazo, ni el
+   remedio del numeral 17.3.
 
 > **Nada de lo previsto en esta cláusula puede interpretarse como una renuncia
 > anticipada, una limitación o una condición al ejercicio de los derechos que la
@@ -552,7 +628,11 @@ efectuarlas en horarios de menor impacto y, cuando sea posible, con aviso previo
 funcionalidades de la Aplicación. Cuando una modificación suprima de forma
 sustancial y permanente una funcionalidad esencial de un Plan de pago vigente, el
 Usuario podrá terminar la suscripción y solicitar el reembolso proporcional del
-período no disfrutado, como remedio único y exclusivo.
+período no disfrutado, como remedio único y exclusivo. **El reembolso se
+liquidará en proporción a los días no disfrutados sobre el total del período
+contratado**, y se solicitará por el canal del numeral 13.2. Si el pago se
+efectuó por pago directo, **lo ejecuta el Titular** conforme al numeral 13.4; si
+se efectuó a través de una tienda de aplicaciones, se aplicará el numeral 13.3.
 
 **17.4.** La Aplicación puede requerir versiones mínimas del sistema operativo o
 de la propia Aplicación. **El Titular podrá exigir la actualización a una versión
@@ -691,7 +771,7 @@ aviso con treinta (30) días calendario de antelación.
 
 **23.3. Efectos.** La terminación implica el cese del derecho de uso y de la
 licencia otorgada. Las sumas pagadas por períodos en curso no serán
-reembolsables, salvo lo previsto en la cláusula 17.3 y en la ley.
+reembolsables, salvo lo previsto en los numerales 13.8 y 17.3 y en la ley.
 
 **23.4. Retención y supresión de datos.** El efecto sobre la información depende
 de cómo termine la relación, y es distinto en cada caso:
