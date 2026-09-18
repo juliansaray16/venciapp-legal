@@ -1,7 +1,7 @@
 # POLÍTICA DE TRATAMIENTO DE DATOS PERSONALES — VENCIAPP
 
-**Última actualización:** 2 de septiembre de 2026
-**Versión:** 2.3
+**Última actualización:** 18 de septiembre de 2026
+**Versión:** 2.4
 **Vigencia:** desde su publicación
 
 ---
@@ -92,6 +92,7 @@ almacenamiento, uso, circulación o supresión.
 | Comercial | Plan contratado, historial de suscripción, identificadores de la transacción provistos por las tiendas de aplicaciones | Según aplique |
 | Preferencias | Canales, días y horas de notificación | Opcional |
 | Técnicos | Identificador de dispositivo para notificaciones, modelo de dispositivo, sistema operativo, versión de la Aplicación, registros de acceso y de error | Automático |
+| Uso | Registro estadístico de las acciones realizadas dentro de la Aplicación, expresado únicamente en **conteos, categorías y valores de sí/no**. No incluye el contenido de los datos de Contribuyentes ni valores monetarios (ver sección 12.6) | Automático |
 | Soporte | Contenido de las comunicaciones de soporte y de la retroalimentación que el usuario envíe voluntariamente | Voluntario |
 
 **Sobre el número de identificación del usuario titular:** se recolecta, además de
@@ -148,7 +149,9 @@ e) Administrar organizaciones, invitaciones, roles y permisos de usuarios
 f) Brindar soporte, atender peticiones, quejas y reclamos, y gestionar la
    retroalimentación recibida;
 g) Operar, mantener, depurar y mejorar la Aplicación, incluido el diagnóstico de
-   errores y el análisis de rendimiento (ver sección 12);
+   errores, el análisis de rendimiento y el **análisis estadístico del uso de las
+   funcionalidades**, con el fin de identificar en qué puntos los Usuarios
+   encuentran dificultades y priorizar mejoras (ver sección 12);
 h) **Prevenir el fraude y el abuso**, incluida la verificación de unicidad de la
    prueba gratuita y la detección de usos que eludan los límites del plan;
 i) Garantizar la seguridad de la información y de la infraestructura, y
@@ -165,7 +168,7 @@ n) **Previa aceptación del visitante**, medir la efectividad de las campañas
    publicitarias de VenciApp y presentar anuncios en plataformas de terceros.
    Esta finalidad recae **únicamente sobre los datos de navegación del sitio web
    venciapp.co**, no sobre los datos de la cuenta ni sobre los datos de
-   Contribuyentes (ver sección 12.7).
+   Contribuyentes (ver sección 12.8).
 
 El Titular **puede negarse a autorizar las finalidades de los literales m) y n)**
 sin que ello afecte la prestación del servicio, y puede revocarlas en cualquier
@@ -217,7 +220,7 @@ la propia Aplicación.
 
 **6.4. Visitantes del sitio web.** La navegación por venciapp.co no exige crear
 una cuenta. La autorización para las cookies de publicidad descritas en la
-sección 12.7 se recoge de manera **independiente de la autorización de registro**,
+sección 12.8 se recoge de manera **independiente de la autorización de registro**,
 mediante el aviso de cookies del sitio, y su rechazo no limita el acceso a
 ninguna parte del sitio.
 
@@ -346,10 +349,11 @@ proveedores, con quienes mantiene los respectivos acuerdos de tratamiento:
 | **650 Industries, Inc.** (Expo) | Estados Unidos | Plataforma de desarrollo, distribución de actualizaciones y entrega de notificaciones | Identificador del dispositivo y datos técnicos |
 | **Apple Inc.** y **Google LLC** | Estados Unidos | Distribución de la Aplicación y procesamiento de compras dentro de ella | Identificador de la transacción y estado de la suscripción |
 | **RevenueCat, Inc.** | Estados Unidos | Validación de las compras realizadas en las tiendas y administración del estado de la suscripción del Usuario | Identificador interno de la cuenta, identificadores de la transacción provistos por la tienda y estado de la suscripción. **No recibe el nombre, el correo electrónico ni dato alguno de Contribuyentes** |
+| **PostHog, Inc.** | Estados Unidos | Analítica de uso de la Aplicación: medición estadística de qué funcionalidades se utilizan y en qué punto los Usuarios abandonan un flujo | Identificador interno de la cuenta, datos técnicos del dispositivo y **conteos, categorías y valores de sí/no** sobre las acciones realizadas. **No recibe nombres, números de documento, razones sociales ni valores monetarios**, ni dato alguno de Contribuyentes |
 | **Meta Platforms, Inc.** (Facebook, Instagram) | Estados Unidos e Irlanda | **Solo si el visitante lo acepta:** medición de la efectividad de la publicidad del sitio web y presentación de anuncios | Dirección IP, identificador de cookie del navegador, páginas visitadas de venciapp.co y acciones realizadas en ellas |
 
 Respecto de Meta Platforms, Inc. se precisa que: (i) la herramienta descrita en la
-sección 12.7 **permanece inactiva mientras el visitante no la acepte**; (ii) opera
+sección 12.8 **permanece inactiva mientras el visitante no la acepte**; (ii) opera
 **exclusivamente en el sitio web venciapp.co**, y no en la aplicación móvil ni en
 el portal web app.venciapp.co, de modo que **no accede a datos de la cuenta ni a
 datos de Contribuyentes**; (iii) Meta trata esos datos de navegación también para
@@ -455,7 +459,60 @@ estadística agregada y disociada que no permita identificar a persona alguna, l
 cual no se considera dato personal y podrá ser utilizada sin restricción para el
 análisis y la mejora del servicio.
 
-**12.6. Sitio web: cookies necesarias y medición de audiencia.** El sitio web
+**12.6. Analítica de uso de la Aplicación.** De manera separada del diagnóstico
+de errores descrito en los numerales anteriores, AKRUX mide **cómo se utilizan
+las funcionalidades** de la Aplicación, con el único fin de entender en qué punto
+los Usuarios encuentran dificultades y priorizar las mejoras del servicio. Esta
+medición se realiza a través de **PostHog, Inc.** (Estados Unidos), en los
+siguientes términos:
+
+a) **Acciones que se miden.** Únicamente las siguientes: el registro de una
+   cuenta nueva; la apertura del formulario de creación de un Contribuyente; la
+   creación de un Contribuyente; el uso del cargue masivo desde el portal web; la
+   asignación de una obligación tributaria; y el uso de las calculadoras de
+   sanciones e intereses.
+
+b) **Información que acompaña a cada acción.** Exclusivamente **conteos,
+   categorías y valores de sí/no**: por ejemplo, cuántos Contribuyentes tiene la
+   cuenta, si la creación se hizo de forma individual o por cargue masivo,
+   cuántas filas de un archivo se procesaron correctamente, el nombre de la
+   obligación tomado del **catálogo público de obligaciones** de la Aplicación,
+   el **municipio al que corresponde una obligación territorial** —tomado
+   igualmente del catálogo de municipios y no de dato alguno del
+   Contribuyente—, o si se generó un documento PDF.
+
+   A cada una de estas acciones se adjuntan, además, los **datos técnicos**
+   descritos en el numeral 12.1 —versión de la Aplicación, sistema operativo y
+   tipo de dispositivo—, y se registran los hitos de **instalación, actualización
+   y apertura** de la Aplicación, con el fin de medir su uso a lo largo del
+   tiempo.
+
+c) **Información que NO se remite.** Esta medición **no incluye, en ningún caso,
+   nombres, razones sociales, números de documento —NIT o cédula—, direcciones,
+   correos electrónicos ni valores monetarios**, ni propios del Usuario ni de sus
+   Contribuyentes. AKRUX mantiene un control técnico automatizado que verifica
+   esta restricción sobre el código de la Aplicación, y filtros que descartan
+   cualquier valor que presente la forma de un correo electrónico o de un número
+   de identificación antes de su envío.
+
+d) **Identificación.** Al igual que en el numeral 12.2, la medición se asocia al
+   **identificador interno de la cuenta** del Usuario, no a su nombre ni a su
+   correo electrónico. Por ser información asociable a una persona determinable,
+   **constituye dato personal** y se trata conforme a esta Política.
+
+e) **Lo que no se hace.** La Aplicación **no graba la pantalla del Usuario, no
+   registra automáticamente los toques ni los textos de los elementos que se
+   tocan, y no realiza captura automática de pantallas**. No se remite ninguna
+   acción distinta de las enumeradas en los literales a) y b). Esta información
+   **no se utiliza para elaborar perfiles comerciales** ni para tomar decisiones
+   automatizadas que produzcan efectos jurídicos sobre el Usuario.
+
+f) **Control del Usuario.** El mismo interruptor de la sección de Privacidad de
+   los ajustes de la Aplicación mencionado en el numeral 12.4 **desactiva también
+   esta medición**. La desactivación surte efecto de inmediato y no afecta el
+   acceso a ninguna funcionalidad del servicio.
+
+**12.7. Sitio web: cookies necesarias y medición de audiencia.** El sitio web
 venciapp.co utiliza el almacenamiento local del navegador **estrictamente
 necesario** para su funcionamiento y para conservar la decisión del visitante
 sobre las cookies descritas en el numeral siguiente.
@@ -465,7 +522,7 @@ instala cookies ni construye un identificador de la persona**: se limita a
 contabilizar visitas de forma agregada. Por ese motivo **no requiere aceptación
 previa** y no permite reconocer a un visitante entre una sesión y otra.
 
-**12.7. Sitio web: píxel de Meta (publicidad y medición de campañas).** Cuando
+**12.8. Sitio web: píxel de Meta (publicidad y medición de campañas).** Cuando
 AKRUX realiza campañas publicitarias en Facebook e Instagram, el sitio web
 venciapp.co **puede** utilizar el píxel de **Meta Platforms, Inc.**, con las
 siguientes precisiones:
@@ -491,7 +548,7 @@ e) **Responsabilidad.** Meta trata esa información también para finalidades
    privacidad (https://www.facebook.com/privacy/policy). La transferencia a
    Estados Unidos e Irlanda se rige por lo previsto en la sección 10.
 
-**12.8. Gestión y revocación del consentimiento.** La decisión del visitante se
+**12.9. Gestión y revocación del consentimiento.** La decisión del visitante se
 conserva en su propio navegador. El visitante puede **cambiarla o revocarla en
 cualquier momento** desde el enlace de preferencias de cookies disponible en el
 pie de página del sitio, o eliminando los datos del sitio desde la configuración
@@ -603,7 +660,7 @@ artículo 2.2.2.25.3.4 del Decreto 1074 de 2015.
 
 ## 18. VIGENCIA
 
-La presente Política rige a partir del **2 de septiembre de 2026** y deja sin
+La presente Política rige a partir del **18 de septiembre de 2026** y deja sin
 efecto las versiones anteriores. Las bases de datos administradas se conservarán
 por el tiempo necesario para cumplir las finalidades del tratamiento y los plazos
 legales aplicables, conforme a la sección 13.
@@ -627,4 +684,4 @@ Superintendencia de Industria y Comercio — www.sic.gov.co
 
 ---
 
-*Versión 2.3 — 2 de septiembre de 2026.*
+*Versión 2.4 — 18 de septiembre de 2026.*
