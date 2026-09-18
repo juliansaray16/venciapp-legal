@@ -1,7 +1,7 @@
 # POLÍTICA DE TRATAMIENTO DE DATOS PERSONALES — VENCIAPP
 
-**Última actualización:** 18 de septiembre de 2026
-**Versión:** 2.4
+**Última actualización:** 19 de septiembre de 2026
+**Versión:** 2.5
 **Vigencia:** desde su publicación
 
 ---
@@ -86,12 +86,11 @@ almacenamiento, uso, circulación o supresión.
 | Identificación | Número de identificación tributaria o documento de identidad del usuario titular | Obligatorio |
 | Contacto | Correo electrónico | Obligatorio |
 | Contacto | Número de teléfono | Opcional |
-| Contacto | Número para mensajería instantánea, si el usuario habilita ese canal | Opcional |
 | Ubicación | Municipio de residencia o de ejercicio profesional | Obligatorio |
 | Cuenta | Credenciales de acceso (la contraseña se almacena cifrada y no es visible para el Responsable), rol, organización, estado de la cuenta | Obligatorio |
 | Comercial | Plan contratado, historial de suscripción, identificadores de la transacción provistos por las tiendas de aplicaciones | Según aplique |
 | Preferencias | Canales, días y horas de notificación | Opcional |
-| Técnicos | Identificador de dispositivo para notificaciones, modelo de dispositivo, sistema operativo, versión de la Aplicación, registros de acceso y de error | Automático |
+| Técnicos | Modelo de dispositivo, sistema operativo, versión de la Aplicación, tipo de dispositivo, registros de acceso y de error | Automático |
 | Uso | Registro estadístico de las acciones realizadas dentro de la Aplicación, expresado únicamente en **conteos, categorías y valores de sí/no**. No incluye el contenido de los datos de Contribuyentes ni valores monetarios (ver sección 12.6) | Automático |
 | Soporte | Contenido de las comunicaciones de soporte y de la retroalimentación que el usuario envíe voluntariamente | Voluntario |
 
@@ -185,13 +184,25 @@ registro.
 1581 de 2012 y el artículo 2.2.2.25.2.4 del Decreto 1074 de 2015, AKRUX conserva
 registro electrónico de la autorización, con indicación de la fecha, la hora y la
 versión de la Política y de los Términos aceptados, el cual está disponible para
-el Titular que solicite prueba de la misma.
+el Titular que solicite prueba de la misma. Dicho registro constituye un mensaje
+de datos y su fuerza probatoria se rige por los artículos 5, 10 y 11 de la **Ley
+527 de 1999**.
 
 **6.3. Autorizaciones específicas.** Las finalidades que requieren autorización
-diferenciada —comunicaciones comerciales, cookies de publicidad en el sitio web y
-transferencia internacional de datos— se solicitan de manera separada y su
-negativa no impide el uso del servicio, sin perjuicio de lo indicado en la
-sección 10 respecto de la infraestructura tecnológica.
+diferenciada —**comunicaciones comerciales** y **cookies de publicidad en el sitio
+web**— se solicitan de manera separada y su negativa no impide el uso del
+servicio ni limita funcionalidad alguna.
+
+⚠️ **La transferencia internacional de datos no es una de ellas, y conviene que
+quede claro.** La totalidad de la infraestructura que hace funcionar VenciApp
+—base de datos, autenticación, almacenamiento de archivos, correo y entrega de
+actualizaciones— opera en servidores ubicados fuera de Colombia. Por eso la
+autorización de la sección 10 **no es separable del servicio**: es condición
+necesaria de su prestación, se otorga con la aceptación de esta Política y
+encuentra fundamento tanto en el literal a) como en el literal e) del artículo 26
+de la Ley 1581 de 2012 (autorización del Titular y necesidad para la ejecución
+del contrato). Quien no desee que sus datos se traten fuera de Colombia no puede
+utilizar la Aplicación.
 
 **6.3.1. Comunicaciones comerciales.** La autorización para la finalidad del
 literal m) de la sección 5 se recoge mediante una **casilla independiente y
@@ -249,13 +260,15 @@ comercializarlos; (iii) implementar las medidas de seguridad de la sección 11;
 (iv) exigir a sus subencargados compromisos equivalentes; (v) prestar
 colaboración razonable al Usuario para atender solicitudes de los titulares y
 para responder ante la autoridad; (vi) informar al Usuario los incidentes de
-seguridad que afecten dichos datos; y (vii) suprimirlos o devolverlos al término
-de la relación, conforme a la sección 13.
+seguridad que afecten dichos datos; y (vii) suprimirlos al término de la relación, conforme a la
+sección 13, o entregarlos al Usuario cuando este lo solicite por el canal de la
+sección 9.
 
 **7.4.** AKRUX **no accede al contenido de las notas y archivos** de los
 Contribuyentes salvo por causa justificada y estrictamente necesaria —soporte
 solicitado por el Usuario, cumplimiento de una orden de autoridad competente,
-o atención de un incidente de seguridad— dejando registro de dichos accesos.
+o atención de un incidente de seguridad—. Todo acceso de esa naturaleza se
+documenta internamente con su motivo y su fecha.
 
 ## 8. DERECHOS DEL TITULAR (HABEAS DATA)
 
@@ -327,8 +340,8 @@ y Comercio (artículo 16, Ley 1581 de 2012).
 **10.1. Autorización expresa.** El Titular **reconoce, acepta y autoriza de
 manera expresa** que, para la prestación del servicio, sus datos y los datos que
 ingrese pueden ser **almacenados y tratados en servidores ubicados fuera del
-territorio colombiano**, principalmente en **[Estados Unidos de América y/o los
-demás países en que operen los proveedores relacionados a continuación]**.
+territorio colombiano**, concretamente en **los Estados Unidos de América**, país
+en el que operan la totalidad de los proveedores relacionados en el numeral 10.3.
 
 **10.2. Base de legitimación.** Dado que algunos de dichos países pueden no estar
 comprendidos en la lista de países con nivel adecuado de protección adoptada por
@@ -350,6 +363,8 @@ proveedores, con quienes mantiene los respectivos acuerdos de tratamiento:
 | **Apple Inc.** y **Google LLC** | Estados Unidos | Distribución de la Aplicación y procesamiento de compras dentro de ella | Identificador de la transacción y estado de la suscripción |
 | **RevenueCat, Inc.** | Estados Unidos | Validación de las compras realizadas en las tiendas y administración del estado de la suscripción del Usuario | Identificador interno de la cuenta, identificadores de la transacción provistos por la tienda y estado de la suscripción. **No recibe el nombre, el correo electrónico ni dato alguno de Contribuyentes** |
 | **PostHog, Inc.** | Estados Unidos | Analítica de uso de la Aplicación: medición estadística de qué funcionalidades se utilizan y en qué punto los Usuarios abandonan un flujo | Identificador interno de la cuenta, datos técnicos del dispositivo y **conteos, categorías y valores de sí/no** sobre las acciones realizadas. **No recibe nombres, números de documento, razones sociales ni valores monetarios**, ni dato alguno de Contribuyentes |
+| **Cloudflare, Inc.** | Estados Unidos | Entrega y protección del sitio venciapp.co y del portal app.venciapp.co, y medición agregada de audiencia del sitio | Dirección IP, agente de usuario y datos técnicos de cada petición que pasa por el sitio o el portal. **No accede a la base de datos ni al contenido de la cuenta** |
+| **Wompi S.A.S.** (Grupo Bancolombia) | Colombia | Procesamiento de los pagos efectuados por los medios dispuestos en el sitio web oficial | Nombre completo y correo electrónico del Usuario, e importe y referencia de la transacción. **AKRUX no recibe ni almacena los datos del medio de pago** |
 | **Meta Platforms, Inc.** (Facebook, Instagram) | Estados Unidos e Irlanda | **Solo si el visitante lo acepta:** medición de la efectividad de la publicidad del sitio web y presentación de anuncios | Dirección IP, identificador de cookie del navegador, páginas visitadas de venciapp.co y acciones realizadas en ellas |
 
 Respecto de Meta Platforms, Inc. se precisa que: (i) la herramienta descrita en la
@@ -367,8 +382,17 @@ de aplicaciones: **AKRUX no recibe ni almacena números de tarjeta ni datos
 financieros del Usuario**. RevenueCat, Inc. interviene únicamente para verificar
 ante Apple y Google que una compra es válida y para informar a la Aplicación qué
 plan tiene activo el Usuario; **tampoco accede a datos financieros del medio de
-pago**. Cuando se habiliten medios de pago propios en el sitio web, esta tabla se
-actualizará antes de su puesta en funcionamiento.
+pago**.
+
+**Pagos efectuados en el sitio web oficial.** Este canal se encuentra **en
+funcionamiento** y lo procesa **Wompi S.A.S.**, entidad del Grupo Bancolombia
+domiciliada en Colombia. Para generar el cobro, AKRUX le comunica el **nombre
+completo y el correo electrónico** del Usuario, junto con el importe y la
+referencia de la transacción. Los datos del medio de pago —número de tarjeta,
+credenciales bancarias— se capturan **directamente en el entorno de Wompi** y en
+ningún momento pasan por la Aplicación ni por los servidores de AKRUX. Por
+tratarse de un proveedor domiciliado en Colombia, esta comunicación **no
+constituye transferencia internacional**.
 
 **10.4.** AKRUX exige a dichos proveedores estándares de seguridad y
 confidencialidad adecuados, y les prohíbe utilizar la información para
@@ -402,9 +426,12 @@ uso o acceso no autorizado o fraudulento, entre ellas:
   públicamente, cuyo acceso se restringe además **a los Contribuyentes
   efectivamente asignados** a cada usuario adicional, de forma equivalente a la
   restricción aplicable al resto de su información;
-- Segregación de ambientes de desarrollo y producción;
+- Separación de la **infraestructura** de desarrollo y de producción en
+  proyectos independientes, con un control automatizado que impide que los
+  ambientes distintos de producción envíen comunicaciones a Titulares reales;
 - Principio de mínimo privilegio en el acceso del personal;
-- Registro de auditoría de operaciones sensibles;
+- Registro de la autoría de las escrituras sensibles, de modo que cada nota y
+  cada archivo conserva qué usuario lo creó;
 - Copias de seguridad periódicas.
 
 **11.2.** No obstante lo anterior, **ningún sistema de información es
@@ -443,10 +470,18 @@ dato personal** y se trata conforme a la presente Política. AKRUX la utiliza
 exclusivamente para las finalidades de diagnóstico, seguridad y mejora del
 servicio, y no para elaborar perfiles comerciales.
 
-**12.3. Exclusión del contenido de terceros.** Estos informes **no incluyen el
-contenido de la información de los Contribuyentes** —nombres, números de
-documento, notas ni archivos—, sino únicamente identificadores técnicos,
-métricas de funcionamiento y trazas de error.
+**12.3. Exclusión del contenido de terceros.** Estos informes **no están
+destinados a incluir el contenido de la información de los Contribuyentes**
+—nombres, números de documento, notas ni archivos—, sino únicamente
+identificadores técnicos, métricas de funcionamiento y trazas de error.
+
+AKRUX no recolecta deliberadamente dicho contenido por esta vía y aplica
+controles para evitarlo. No obstante, **un informe de error es, por naturaleza,
+el estado de la Aplicación en el instante de la falla**, y no puede descartarse
+por completo que el mensaje técnico devuelto por un sistema subyacente incorpore
+un valor introducido por el Usuario. Cuando AKRUX advierte una ocurrencia de esa
+clase, la suprime del proveedor de diagnóstico y corrige el origen. El Usuario
+puede evitar por completo este envío desactivándolo conforme al numeral 12.4.
 
 **12.4. Control del Usuario.** El Usuario puede **desactivar en cualquier momento
 el envío de informes de error** desde los ajustes de la Aplicación, en la sección
@@ -482,10 +517,12 @@ b) **Información que acompaña a cada acción.** Exclusivamente **conteos,
    Contribuyente—, o si se generó un documento PDF.
 
    A cada una de estas acciones se adjuntan, además, los **datos técnicos**
-   descritos en el numeral 12.1 —versión de la Aplicación, sistema operativo y
-   tipo de dispositivo—, y se registran los hitos de **instalación, actualización
-   y apertura** de la Aplicación, con el fin de medir su uso a lo largo del
-   tiempo.
+   descritos en el numeral 12.1 —versión y compilación de la Aplicación y tipo
+   de dispositivo—, y se registran los hitos de **instalación, actualización,
+   apertura, paso a primer plano y paso a segundo plano** de la Aplicación, con
+   el fin de medir su uso a lo largo del tiempo. Esos cinco hitos son los únicos
+   eventos automáticos: **ninguno de ellos recoge contenido de pantalla ni
+   información sobre lo que el Usuario está viendo.**
 
 c) **Información que NO se remite.** Esta medición **no incluye, en ningún caso,
    nombres, razones sociales, números de documento —NIT o cédula—, direcciones,
@@ -549,10 +586,16 @@ e) **Responsabilidad.** Meta trata esa información también para finalidades
    Estados Unidos e Irlanda se rige por lo previsto en la sección 10.
 
 **12.9. Gestión y revocación del consentimiento.** La decisión del visitante se
-conserva en su propio navegador. El visitante puede **cambiarla o revocarla en
-cualquier momento** desde el enlace de preferencias de cookies disponible en el
-pie de página del sitio, o eliminando los datos del sitio desde la configuración
-de su navegador. La revocación **detiene la recolección hacia el futuro**; para
+conserva en su propio navegador. Mientras la herramienta descrita en el numeral
+12.8 esté activa, el sitio muestra un **aviso de cookies** para recogerla y un
+**enlace de preferencias en el pie de página** para cambiarla; el visitante puede
+además **revocarla en cualquier momento** eliminando los datos del sitio desde la
+configuración de su navegador.
+
+> ℹ️ **Estado actual: la herramienta del numeral 12.8 está desactivada.** Mientras
+> lo esté, el sitio no recoge dato alguno para esa finalidad y, por ello, no
+> muestra ni el aviso de cookies ni el enlace de preferencias — no habría nada
+> que consentir ni que revocar. Ambos reaparecen si la herramienta se activa. La revocación **detiene la recolección hacia el futuro**; para
 solicitar la supresión de datos ya recolectados por Meta, el visitante puede
 acudir a los controles que esa plataforma ofrece o dirigirse a AKRUX conforme a
 la sección 9.
@@ -582,7 +625,14 @@ b) Por el término legal aplicable, la información necesaria para cumplir
    al artículo 28 de la Ley 962 de 2005 y al artículo 60 del Código de Comercio;
 c) Por el término de prescripción de las acciones correspondientes, la
    información necesaria para el **ejercicio o la defensa de reclamaciones**, en
-   caso de que exista una controversia en curso al momento de la eliminación.
+   caso de que exista una controversia en curso al momento de la eliminación;
+d) El **número de identificación tributaria o documento de identidad** que el
+   Usuario suministró al registrarse, que se conserva **de forma indefinida** con
+   la **única** finalidad de impedir que una misma persona vuelva a consumir la
+   prueba gratuita (sección 5, literal h). Se conserva aislado del resto de la
+   información, **no se utiliza para ninguna otra finalidad**, no se comunica a
+   terceros y no permite reconstruir la cuenta eliminada ni su contenido.
+e) Los **registros contables de las compras** a que se refiere la sección 13.6.
 
 **13.4. Copias de seguridad.** La información puede permanecer en copias de
 seguridad cifradas durante un período adicional de **SIETE (7) DÍAS**, tras el
@@ -602,7 +652,7 @@ automatizada los siguientes plazos:
 | Histórico de vencimientos ya cumplidos o archivados | El año en curso y los **TRES (3) AÑOS** anteriores; la depuración se ejecuta durante el proceso anual de apertura del año fiscal |
 | Registros técnicos del procesamiento masivo de vencimientos | **NOVENTA (90) DÍAS** |
 | Registro de las versiones de la Aplicación utilizadas por el Usuario | Se elimina junto con la cuenta |
-| Eventos de compra y suscripción reportados por las tiendas de aplicaciones | Se conservan por razones contables y de conciliación con el proveedor de pagos; al eliminarse la cuenta **quedan desvinculados del Usuario de forma irreversible**, por lo que dejan de constituir dato personal |
+| Eventos de compra y suscripción reportados por las tiendas de aplicaciones | Se conservan por razones contables y de conciliación con el proveedor de pagos. Al eliminarse la cuenta se suprime de ellos, de forma automática e irreversible, **todo identificador del Usuario** —incluido el que viaja dentro del cuerpo del evento remitido por la tienda—, de modo que solo subsisten el importe, el producto, la fecha y la referencia de la transacción, que ya no permiten identificar a persona alguna |
 
 ## 14. DATOS SENSIBLES Y DE NIÑOS, NIÑAS Y ADOLESCENTES
 
@@ -660,7 +710,7 @@ artículo 2.2.2.25.3.4 del Decreto 1074 de 2015.
 
 ## 18. VIGENCIA
 
-La presente Política rige a partir del **18 de septiembre de 2026** y deja sin
+La presente Política rige a partir del **19 de septiembre de 2026** y deja sin
 efecto las versiones anteriores. Las bases de datos administradas se conservarán
 por el tiempo necesario para cumplir las finalidades del tratamiento y los plazos
 legales aplicables, conforme a la sección 13.
@@ -684,4 +734,4 @@ Superintendencia de Industria y Comercio — www.sic.gov.co
 
 ---
 
-*Versión 2.4 — 18 de septiembre de 2026.*
+*Versión 2.5 — 19 de septiembre de 2026.*

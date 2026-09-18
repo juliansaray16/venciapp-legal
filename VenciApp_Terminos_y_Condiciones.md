@@ -1,7 +1,7 @@
 # TÉRMINOS Y CONDICIONES DE USO DE VENCIAPP
 
-**Última actualización:** 13 de septiembre de 2026
-**Versión:** 2.3
+**Última actualización:** 19 de septiembre de 2026
+**Versión:** 2.4
 **Vigencia:** desde su publicación
 
 ---
@@ -23,7 +23,7 @@
 13. Retracto y reembolsos
 14. Uso aceptable
 15. Propiedad intelectual
-16. Telemetría
+16. Telemetría y analítica de uso
 17. Disponibilidad
 18. Versiones de prueba
 19. Exclusión de garantías
@@ -227,9 +227,9 @@ actualizada durante toda la vigencia de la relación.
 y de **toda actividad que ocurra bajo su Cuenta**, incluso si es realizada por
 terceros a quienes haya facilitado el acceso, voluntaria o negligentemente.
 
-**7.3.** El Usuario debe notificar de inmediato al Titular, al correo
-soporte@venciapp.co, cualquier uso no autorizado, pérdida o compromiso de sus
-credenciales.
+**7.3.** El Usuario debe notificar de inmediato al Titular cualquier uso no
+autorizado, pérdida o compromiso de sus credenciales, al correo
+**soporte@venciapp.co**.
 
 **7.4.** La Cuenta es **personal e intransferible**. Queda prohibido compartir
 credenciales, ceder la Cuenta o permitir su uso por terceros ajenos a la
@@ -284,7 +284,29 @@ solicitudes de supresión que le formulen los titulares de dichos datos. El
 Titular prestará colaboración razonable al Usuario para ello, dentro de las
 capacidades técnicas de la Aplicación.
 
-**9.4. Indemnidad reforzada.** El Usuario **mantendrá indemne al Titular** frente
+**9.4. Contrato de transmisión de datos.** Esta cláusula 9, junto con la
+**sección 7 de la Política de Tratamiento de Datos Personales**, constituye el
+**contrato de transmisión de datos personales** exigido por el artículo
+2.2.2.25.5.2 del Decreto 1074 de 2015, y define:
+
+a) **Alcance y finalidades del tratamiento:** tratar los datos de Contribuyentes
+   exclusivamente para prestar las funcionalidades de la Aplicación contratadas
+   por el Usuario, y para ninguna finalidad propia del Titular;
+b) **Actividades del Encargado:** alojar, almacenar, organizar, procesar,
+   respaldar, poner a disposición del Usuario y suprimir dichos datos, así como
+   generar a partir de ellos los recordatorios, informes y documentos que el
+   Usuario solicite;
+c) **Obligaciones del Encargado** frente al Titular del dato y al Usuario
+   Responsable: las enumeradas en el numeral 7.3 de la Política, que incluyen
+   actuar solo conforme a instrucciones, guardar reserva, aplicar las medidas de
+   seguridad, exigir compromisos equivalentes a sus subencargados, colaborar en
+   la atención de consultas y reclamos, informar los incidentes de seguridad y
+   suprimir o entregar los datos al término de la relación;
+d) **Duración:** la de la relación contractual entre el Usuario y el Titular,
+   prorrogándose cuanto sea necesario para atender las obligaciones legales de
+   conservación.
+
+**9.5. Indemnidad reforzada.** El Usuario **mantendrá indemne al Titular** frente
 a cualquier reclamación, investigación, requerimiento, sanción, multa, condena,
 perjuicio o gasto —incluidos honorarios de abogados y costos de defensa— derivado
 del tratamiento de datos de terceros sin la debida autorización, en exceso de
@@ -322,10 +344,15 @@ obligación— de retirar o bloquear contenido que, a su juicio razonable, infri
 la ley o estos Términos, notificando al Usuario cuando ello sea posible y
 legalmente admisible.
 
-**10.5. Copias de seguridad.** Aunque el Titular implementa mecanismos razonables
-de respaldo, **no garantiza la conservación, integridad ni recuperabilidad del
-Contenido del Usuario**. **El Usuario es responsable de mantener sus propias
-copias de la información que considere crítica.**
+**10.5. Copias de seguridad.** El Titular mantiene copias de seguridad de la
+infraestructura conforme a la **sección 13.4 de la Política de Tratamiento de
+Datos Personales**. Dichas copias existen para la **recuperación ante desastres**
+y **no constituyen un servicio de archivo ni de recuperación a disposición del
+Usuario**: no son consultables a petición y no permiten restaurar información que
+el Usuario haya eliminado. Por ello, **el Usuario es responsable de mantener sus
+propias copias de la información que considere crítica**, y el Titular no
+garantiza la recuperabilidad del Contenido del Usuario más allá de lo aquí
+descrito.
 
 **10.6. Límites técnicos.** El Titular podrá establecer y modificar límites de
 tamaño de archivo, número de archivos, tipos de archivo admitidos y capacidad
@@ -333,10 +360,31 @@ total de almacenamiento por Plan.
 
 ## 11. PLANES, SUSCRIPCIONES Y PAGOS
 
-**11.1.** VenciApp ofrece Planes gratuitos y de pago, cuyas características,
-límites y precios se informan dentro de la Aplicación al momento de la
-contratación. Los límites de cada Plan (entre otros, número de Contribuyentes y
-de Usuarios Adicionales) hacen parte del objeto contratado.
+**11.1.** El uso de VenciApp requiere un Plan de pago vigente o un período de
+prueba gratuita activo. Las características, límites y precios de cada Plan se
+informan dentro de la Aplicación al momento de la contratación, y sus límites
+—entre otros, el número de Contribuyentes y de Usuarios Adicionales— hacen parte
+del objeto contratado.
+
+**11.1.1. Estado sin plan.** Cuando el período de prueba termina sin
+contratación, o cuando una suscripción vence o se cancela, la Cuenta pasa a un
+**estado sin plan**. Ese estado **no es un Plan gratuito**: el Usuario conserva
+el acceso de **solo lectura** a la información ya registrada, pero **no puede
+realizar escritura alguna**, incluida la de marcar un vencimiento como cumplido.
+La información no se elimina por este hecho y vuelve a estar plenamente
+disponible al contratar un Plan.
+
+**11.1.2. Moneda e impuestos.** Salvo indicación expresa en contrario, los
+precios se expresan en **pesos colombianos (COP)** e **incluyen el impuesto
+sobre las ventas (IVA)** cuando resulte aplicable. En las compras efectuadas a
+través de las tiendas de aplicaciones, el precio final, la moneda de cobro y los
+impuestos que la plataforma repercuta son los que esta muestre antes de
+confirmar la operación.
+
+**11.1.3. Soporte de la transacción.** AKRUX conserva registro de cada
+transacción y de la información suministrada al Usuario antes de ella, y lo pone
+a su disposición a solicitud dirigida al canal del numeral 26.3, conforme al
+artículo 50 de la Ley 1480 de 2011.
 
 **11.2. Canales de contratación.** Las suscripciones podrán adquirirse a través
 de las plataformas de distribución de aplicaciones (Apple App Store y Google Play
@@ -416,14 +464,24 @@ e) **Los canales de contratación no se cruzan.** Mientras exista una suscripci�
    esperar a que concluya el período ya pagado**. Esta limitación obedece a que
    cada canal tiene su propio cobro, su propia renovación y su propio mecanismo
    de devolución, y no existe forma de trasladar una suscripción entre ellos.
-   Si pese a esta regla llegara a producirse un solapamiento entre canales, se
-   estará a lo previsto en el **numeral 13.8**.
+   ⚠️ **Esta regla se aplica con medios distintos en cada dirección, y conviene
+   saberlo.** La contratación por pago directo teniendo una suscripción vigente
+   en una tienda **está impedida técnicamente**. La contratación en una tienda
+   teniendo un período vigente de pago directo **no puede impedirse**: esa compra
+   se perfecciona íntegramente dentro de la tienda y el Titular solo tiene
+   noticia de ella cuando el cobro ya se efectuó. Si eso ocurre, el Usuario
+   **no pierde el tiempo ya pagado** y dispone de los remedios del **numeral
+   13.8**, que incluyen el reembolso de la parte solapada.
 
 ## 12. PRUEBA GRATUITA
 
-**12.1.** El Titular podrá ofrecer períodos de prueba gratuita, cuya duración y
-alcance se informan al momento de la activación y pueden modificarse o
-suprimirse en cualquier momento para futuras activaciones.
+**12.1.** El Titular podrá ofrecer períodos de prueba gratuita. La prueba **se
+activa al confirmar la dirección de correo electrónico**, no al registrarse, y su
+duración **se informa dentro de la Aplicación una vez activada**. El Titular
+podrá modificar o suprimir la prueba en cualquier momento para futuras
+activaciones, y **podrá conceder duraciones distintas** según la campaña, el
+canal de captación o circunstancias particulares del Usuario, sin que ello genere
+derecho alguno para quienes hayan activado la suya en condiciones diferentes.
 
 **12.2.** La prueba gratuita está limitada a **una (1) por persona y por número
 de identificación tributaria**. El Titular podrá adoptar medidas técnicas
@@ -431,9 +489,12 @@ razonables para detectar y prevenir su uso abusivo, incluido el registro del
 número de identificación suministrado, e **invalidar pruebas obtenidas mediante
 registros duplicados, información falsa o cualquier mecanismo de elusión**.
 
-**12.3.** Al finalizar la prueba, el acceso a las funcionalidades de pago cesará
-salvo que el Usuario contrate un Plan. La información del Usuario se conservará
-conforme a la cláusula 23.4.
+**12.3.** Al finalizar la prueba, si el Usuario no contrata un Plan, la Cuenta
+pasa al **estado sin plan** del numeral 11.1.1: conserva el acceso de solo
+lectura y **cesa toda posibilidad de escritura**, incluida la de marcar un
+vencimiento como cumplido. Antes de ese corte media un **período de gracia de
+tres (3) días calendario** desde el vencimiento. La información del Usuario se
+conserva conforme a la cláusula 23.4.
 
 ## 13. DERECHO DE RETRACTO, REVERSIÓN Y REEMBOLSOS
 
@@ -480,12 +541,29 @@ momento de la activación y que permite al Usuario evaluar el servicio completo
 antes de efectuar pago alguno. Haber utilizado la prueba **no limita ni extingue**
 el derecho reconocido en esta cláusula.
 
-**13.6. Reversión del pago.** Cuando resulte aplicable el artículo 51 de la Ley
-1480 de 2011 y su reglamentación, el Usuario podrá solicitar la reversión del
-pago en los casos y condiciones allí previstos, dirigiéndose al Titular por el
-canal indicado en el numeral 13.2 y, cuando corresponda, **a la entidad emisora
-del instrumento de pago electrónico utilizado —tarjeta de crédito o débito,
-débito a cuenta bancaria u otro—** o a la tienda de aplicaciones.
+**13.6. Reversión del pago.** Cuando el pago se haya efectuado con un
+instrumento de pago electrónico —tarjeta de crédito o débito, débito a cuenta
+bancaria u otro— el Usuario consumidor puede solicitar la **reversión del pago**
+prevista en el artículo 51 de la Ley 1480 de 2011 y su reglamentación, en los
+casos allí señalados y, en particular, cuando: (i) sea objeto de fraude;
+(ii) corresponda a una operación no solicitada; (iii) el servicio no le sea
+prestado; o (iv) el servicio prestado no corresponda a lo contratado o resulte
+defectuoso.
+
+**Cómo se ejerce.** El Usuario debe presentar la solicitud **dentro de los cinco
+(5) días hábiles siguientes** a que tenga noticia del hecho, dirigiéndola
+simultáneamente al Titular —por el canal del numeral 13.2— **y a la entidad
+emisora** del instrumento de pago. Cuando la compra se haya efectuado en una
+tienda de aplicaciones, la solicitud se dirige además a esta.
+
+**Efecto.** Reunidos los requisitos legales, la reversión debe hacerse efectiva
+**dentro de los quince (15) días hábiles** siguientes, conforme a la citada
+norma. El Titular no se opondrá a la reversión que proceda conforme a la ley y
+prestará la colaboración que le corresponda.
+
+⚠️ Los plazos anteriores se enuncian conforme a la normativa vigente al
+momento de la publicación de este documento; en caso de discrepancia
+**prevalece siempre la ley**.
 
 **13.7. Reembolsos por fuera del retracto.** Vencido el plazo del numeral 13.1, y
 **sin perjuicio de los derechos irrenunciables del consumidor y de las garantías
@@ -590,29 +668,45 @@ información estadística agregada y disociada, que no permita identificar al
 Usuario, a su Organización ni a Contribuyente alguno, con fines de análisis,
 mejora del servicio y desarrollo de nuevas funcionalidades.
 
-## 16. TELEMETRÍA Y REPORTE DE ERRORES
+## 16. TELEMETRÍA, REPORTE DE ERRORES Y ANALÍTICA DE USO
 
-**16.1.** El Usuario reconoce y acepta que la Aplicación recopila de forma
-automática información técnica sobre su funcionamiento, rendimiento y uso
-(informes de errores y fallos, tiempos de respuesta, pantallas visitadas, versión
-de la Aplicación e información técnica del dispositivo y del sistema operativo),
-con la finalidad de detectar y corregir fallos, analizar el desempeño y mejorar
-el servicio.
+**16.1. Diagnóstico y rendimiento.** El Usuario reconoce y acepta que la
+Aplicación recopila de forma automática información técnica sobre su
+funcionamiento y rendimiento (informes de errores y fallos, tiempos de respuesta,
+rutas de navegación recorridas, versión de la Aplicación e información técnica
+del dispositivo y del sistema operativo), con la finalidad de detectar y corregir
+fallos, analizar el desempeño y mejorar el servicio.
 
-**16.2.** Para permitir el diagnóstico, **los informes de error se asocian
-únicamente al identificador interno de la cuenta del Usuario** —un código que
+**16.1.1. Analítica de uso.** De manera separada de lo anterior, la Aplicación
+mide **qué funcionalidades se utilizan**, con el fin de identificar en qué puntos
+los Usuarios encuentran dificultades y priorizar mejoras. Esta medición se limita
+a un conjunto cerrado de acciones y **solo registra conteos, categorías y valores
+de sí/no**; no recoge nombres, razones sociales, números de documento ni valores
+monetarios, ni del Usuario ni de sus Contribuyentes. La **sección 12.6 de la
+Política de Tratamiento de Datos Personales** enumera las acciones medidas, la
+información que las acompaña y el proveedor que interviene.
+
+**16.1.2.** La Aplicación **no graba la pantalla del Usuario, no registra
+automáticamente los toques ni los textos de los elementos que se tocan y no
+realiza captura automática de pantallas.**
+
+**16.2.** Para permitir el diagnóstico y la medición, **la información de las
+dos secciones anteriores se asocia únicamente al identificador interno de la
+cuenta del Usuario** —un código que
 permite al Titular vincular el informe consultando su propia base de datos—.
-**No se remite al proveedor de diagnóstico el correo electrónico ni el nombre del
-Usuario.** Aun así, por tratarse de información asociable a una persona
+**No se remite a ninguno de los proveedores que intervienen el correo electrónico
+ni el nombre del Usuario.** Aun así, por tratarse de información asociable a una persona
 determinable, constituye dato personal y se trata conforme a la Política de
 Tratamiento de Datos Personales.
 
 **16.3.** Esta información **no incluye el contenido de la información ingresada
 sobre los Contribuyentes** (nombres, números de documento, notas o archivos).
 
-**16.4.** El Usuario puede desactivar el envío de informes de error en cualquier
-momento desde los ajustes de la Aplicación, sin que ello afecte el acceso a las
-funcionalidades esenciales del servicio.
+**16.4.** El Usuario puede desactivar **en cualquier momento y con efecto
+inmediato** el envío de toda la información de esta cláusula —tanto los informes
+de error como la analítica de uso— desde la sección de Privacidad de los ajustes
+de la Aplicación, **mediante un único interruptor**, sin que ello afecte el
+acceso a funcionalidad alguna del servicio.
 
 ## 17. DISPONIBILIDAD, MANTENIMIENTO Y MODIFICACIONES DEL SERVICIO
 
@@ -718,7 +812,10 @@ declararse alguna responsabilidad del Titular, esta se limitará —en la máxim
 medida permitida por la ley— al **menor valor entre (i) el total efectivamente
 pagado por el Usuario por concepto de suscripción durante los doce (12) meses
 inmediatamente anteriores al hecho que originó la reclamación, y (ii)
-UN (1) SMMLV**. Para los Usuarios de Planes gratuitos, dicho límite será cero.
+UN (1) SMMLV**. Para los Usuarios que se encuentren en período de prueba
+gratuita o en el estado sin plan del numeral 11.1.1 —que no han efectuado pago
+alguno— el límite será el menor valor entre lo efectivamente pagado, si lo
+hubiere, y UN (1) SMMLV.
 
 **20.5. Salvedades.** Las limitaciones y exclusiones de esta cláusula **no
 aplican** en caso de dolo o culpa grave del Titular, ni respecto de los derechos
@@ -758,15 +855,25 @@ infraestructura.
 ## 23. SUSPENSIÓN, TERMINACIÓN Y EFECTOS
 
 **23.1. Terminación por el Usuario.** El Usuario podrá terminar la relación en
-cualquier momento cancelando su suscripción y/o eliminando su Cuenta desde la
-Aplicación, sin perjuicio de las sumas ya causadas.
+cualquier momento, sin perjuicio de las sumas ya causadas, por cualquiera de
+estas dos vías, que son independientes:
+
+a) **Cancelar la renovación de la suscripción.** Cuando se haya contratado a
+   través de una tienda de aplicaciones, la cancelación se efectúa **en la propia
+   tienda** (App Store o Google Play), que es quien gestiona el cobro; la
+   Aplicación ofrece un enlace directo a esa pantalla. Cuando se haya contratado
+   por pago directo, la suscripción es prepagada y **no se renueva
+   automáticamente**, por lo que no requiere cancelación: basta con no contratar
+   de nuevo.
+b) **Eliminar la Cuenta** desde la Aplicación, con los efectos del numeral 23.4.
 
 **23.2. Terminación o suspensión por el Titular.** El Titular podrá suspender o
 terminar el acceso, total o parcialmente, **con efecto inmediato y sin aviso
 previo** cuando: (i) exista incumplimiento de estos Términos; (ii) se detecte uso
 fraudulento, abusivo o que comprometa la seguridad o la integridad del servicio o
-de otros usuarios; (iii) lo ordene una autoridad competente; o (iv) exista mora
-en el pago. En los demás casos, el Titular podrá terminar la relación mediante
+de otros usuarios; o (iii) lo ordene una autoridad competente. La suspensión
+por **mora en el pago** se rige por el numeral 11.7 y requiere comunicación
+previa. En los demás casos, el Titular podrá terminar la relación mediante
 aviso con treinta (30) días calendario de antelación.
 
 **23.3. Efectos.** La terminación implica el cese del derecho de uso y de la
@@ -779,10 +886,24 @@ de cómo termine la relación, y es distinto en cada caso:
 a) **Si el Usuario elimina su Cuenta desde la Aplicación**, la supresión se
    ejecuta de forma **inmediata e irreversible**. El Titular **no conserva copia
    operativa de la información suprimida ni ofrece ventana alguna de
-   recuperación**, por lo que la pérdida de Contribuyentes, vencimientos, notas y
-   archivos es definitiva. Se recomienda al Usuario **exportar previamente** la
-   información que desee conservar, utilizando las funciones de informe y
-   exportación de la Aplicación.
+   recuperación**.
+
+   ⚠️ **Qué se pierde depende de si el Usuario está solo en su Organización.**
+   Si es su **único miembro**, la eliminación arrastra consigo a los
+   Contribuyentes, vencimientos, notas y archivos de la Organización, y esa
+   pérdida es definitiva. Si la Organización **tiene otros miembros**, esa
+   información **permanece en ella** —pertenece a la Organización y no al
+   Usuario individualmente, conforme al numeral 8.5— y solo se elimina la Cuenta
+   de quien la solicita.
+
+   Se recomienda **exportar previamente** lo que se desee conservar. El Usuario
+   debe tener presente que las funciones de exportación de la Aplicación cubren
+   los **vencimientos, el calendario consolidado y las liquidaciones** (en PDF y
+   hoja de cálculo), pero **no permiten exportar las notas ni descargar de forma
+   masiva los archivos adjuntos**, que deben descargarse uno a uno antes de
+   eliminar la Cuenta. Para solicitar una copia de la información no exportable,
+   el Usuario puede dirigirse al canal de la sección 9 de la Política de
+   Tratamiento de Datos Personales.
 b) **Si la relación termina por vencimiento del plan, por falta de pago o por
    decisión del Titular conforme a la cláusula 23.2**, la Cuenta pierde el acceso
    a las funcionalidades de pago pero **la información no se suprime por ese solo
@@ -804,15 +925,21 @@ mantener vigencia.
 normativos, técnicos, operativos o de mercado.
 
 **24.2.** Las modificaciones se publicarán en la Aplicación y en el sitio web
-oficial, indicando la fecha de la nueva versión. **Los cambios sustanciales que
-afecten derechos u obligaciones del Usuario se comunicarán con una antelación no
-inferior a quince (15) días calendario** a su entrada en vigencia, por correo
-electrónico o mediante aviso destacado en la Aplicación.
+oficial, indicando la fecha de la nueva versión.
 
-**24.3.** El uso continuado de la Aplicación con posterioridad a la entrada en
-vigencia implica la aceptación de la nueva versión. Si el Usuario no está de
-acuerdo, deberá abstenerse de seguir utilizando la Aplicación y podrá terminar la
-relación conforme a la cláusula 23.1.
+**24.3. Cómo se aceptan los cambios sustanciales.** Los cambios que afecten
+derechos u obligaciones del Usuario **requieren su aceptación expresa**: al
+publicarse una nueva versión, la Aplicación se la presenta al Usuario en su
+siguiente ingreso y le solicita aceptarla. **Mientras no la acepte, continúa
+rigiendo entre las partes la versión que aceptó**, y el Usuario puede terminar la
+relación conforme a la cláusula 23.1 sin penalidad alguna. AKRUX conserva
+registro electrónico de cada aceptación, con su fecha, hora y versión; dicho
+registro constituye un mensaje de datos y su fuerza probatoria se rige por los
+artículos 5, 10 y 11 de la **Ley 527 de 1999**.
+
+**24.4.** Los cambios que no afecten derechos u obligaciones del Usuario
+—correcciones de redacción, actualizaciones de datos de contacto y similares— se
+entenderán aceptados con el uso continuado de la Aplicación.
 
 ## 25. CESIÓN
 
@@ -840,8 +967,18 @@ electrónico registrado en la Cuenta o mediante avisos dentro de la Aplicación,
 electrónico. La imposibilidad de entrega por causas atribuibles al Usuario no
 afectará la eficacia de la comunicación.
 
-**26.3.** Las comunicaciones del Usuario al Titular deberán dirigirse a
-**admin@venciapp.co**.
+**26.3. Canales del Titular.** El Titular atiende al Usuario en dos direcciones,
+y ambas son válidas para cualquier comunicación:
+
+- **soporte@venciapp.co** — soporte del producto, incidencias técnicas y avisos
+  de seguridad de la Cuenta. Es la dirección que la Aplicación muestra.
+- **admin@venciapp.co** — asuntos legales, contractuales y de protección de datos
+  personales, incluidos el retracto, la reversión y el ejercicio de los derechos
+  de Habeas Data.
+
+Una comunicación dirigida a cualquiera de las dos se entiende **válidamente
+presentada** y los plazos corren desde su recepción; el Titular la encauza
+internamente sin cargo para el Usuario.
 
 **26.4. Comunicaciones del servicio y comunicaciones comerciales.** Las
 comunicaciones a que se refieren los numerales anteriores son **comunicaciones
@@ -926,4 +1063,4 @@ Usuario puede comunicarse con:
 
 ---
 
-*Versión 2.3 — 13 de septiembre de 2026.*
+*Versión 2.4 — 19 de septiembre de 2026.*
