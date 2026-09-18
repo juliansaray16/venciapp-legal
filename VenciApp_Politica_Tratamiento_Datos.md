@@ -690,11 +690,25 @@ permanencia no se ve afectada por la desvinculación de un Usuario Adicional.
 
 ## 16. REGISTRO NACIONAL DE BASES DE DATOS
 
-Cuando AKRUX S.A.S. se encuentre obligada conforme al Decreto 1074 de 2015,
-modificado por el Decreto 090 de 2018, procederá a inscribir sus bases de datos
-en el **Registro Nacional de Bases de Datos (RNBD)** administrado por la
-Superintendencia de Industria y Comercio, y a mantener actualizada dicha
+El **Decreto 090 de 2018**, que modificó el Decreto 1074 de 2015, circunscribió
+la obligación de inscribirse en el **Registro Nacional de Bases de Datos (RNBD)**
+a las sociedades y entidades sin ánimo de lucro cuyos **activos totales superen
+las cien mil (100.000) UVT**.
+
+**AKRUX S.A.S. no supera dicho umbral**, por lo que a la fecha de esta Política
+**no se encuentra obligada** a efectuar dicha inscripción. Ello no la exime de
+ninguna de las demás obligaciones de la Ley 1581 de 2012, que cumple en los
+términos aquí descritos.
+
+AKRUX verifica el cumplimiento de ese umbral con ocasión del cierre contable de
+cada ejercicio y, **en el momento en que lo supere, procederá a inscribir sus
+bases de datos en el RNBD** dentro del plazo legal y a mantener actualizada la
 inscripción.
+
+**Reporte de incidentes.** Con independencia de lo anterior, la comunicación de
+los incidentes de seguridad a que se refiere el numeral 11.4 se efectúa por los
+canales que la Superintendencia de Industria y Comercio disponga para los
+Responsables no inscritos en el RNBD.
 
 ## 17. MODIFICACIONES A LA POLÍTICA
 
