@@ -1,6 +1,6 @@
 # TÉRMINOS Y CONDICIONES DE USO DE VENCIAPP
 
-**Última actualización:** 19 de septiembre de 2026
+**Última actualización:** 21 de septiembre de 2026
 **Versión:** 2.4
 **Vigencia:** desde su publicación
 
@@ -677,14 +677,17 @@ rutas de navegación recorridas, versión de la Aplicación e información técn
 del dispositivo y del sistema operativo), con la finalidad de detectar y corregir
 fallos, analizar el desempeño y mejorar el servicio.
 
-**16.1.1. Analítica de uso.** De manera separada de lo anterior, la Aplicación
-mide **qué funcionalidades se utilizan**, con el fin de identificar en qué puntos
-los Usuarios encuentran dificultades y priorizar mejoras. Esta medición se limita
-a un conjunto cerrado de acciones y **solo registra conteos, categorías y valores
-de sí/no**; no recoge nombres, razones sociales, números de documento ni valores
-monetarios, ni del Usuario ni de sus Contribuyentes. La **sección 12.6 de la
-Política de Tratamiento de Datos Personales** enumera las acciones medidas, la
-información que las acompaña y el proveedor que interviene.
+**16.1.1. Analítica de uso.** De manera separada de lo anterior, el Titular mide
+**qué funcionalidades se utilizan**, con el fin de identificar en qué puntos los
+Usuarios encuentran dificultades y priorizar mejoras. La medición se origina en la
+Aplicación, salvo la activación de una suscripción de pago, que el Titular
+registra **en sus servidores** a partir de la confirmación de cobro que remite la
+tienda de aplicaciones. Esta medición se limita a un conjunto cerrado de acciones
+y **solo registra conteos, categorías y valores de sí/no**; no recoge nombres,
+razones sociales, números de documento ni valores monetarios, ni del Usuario ni de
+sus Contribuyentes. La **sección 12.6 de la Política de Tratamiento de Datos
+Personales** enumera las acciones medidas, la información que las acompaña y el
+proveedor que interviene.
 
 **16.1.2.** La Aplicación **no graba la pantalla del Usuario, no registra
 automáticamente los toques ni los textos de los elementos que se tocan y no
@@ -1063,4 +1066,4 @@ Usuario puede comunicarse con:
 
 ---
 
-*Versión 2.4 — 19 de septiembre de 2026.*
+*Versión 2.4 — 21 de septiembre de 2026.*

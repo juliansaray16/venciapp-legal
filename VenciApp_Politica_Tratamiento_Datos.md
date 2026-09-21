@@ -1,6 +1,6 @@
 # POLÍTICA DE TRATAMIENTO DE DATOS PERSONALES — VENCIAPP
 
-**Última actualización:** 19 de septiembre de 2026
+**Última actualización:** 21 de septiembre de 2026
 **Versión:** 2.5
 **Vigencia:** desde su publicación
 
@@ -504,8 +504,19 @@ siguientes términos:
 a) **Acciones que se miden.** Únicamente las siguientes: el registro de una
    cuenta nueva; la apertura del formulario de creación de un Contribuyente; la
    creación de un Contribuyente; el uso del cargue masivo desde el portal web; la
-   asignación de una obligación tributaria; y el uso de las calculadoras de
-   sanciones e intereses.
+   asignación de una obligación tributaria; el uso de las calculadoras de
+   sanciones e intereses; y **la activación de una suscripción de pago**.
+
+   Respecto de esta última, y por ser la única que no se origina en el
+   dispositivo del Usuario: la registra **AKRUX en sus servidores** a partir de
+   la confirmación de cobro que remite la tienda de aplicaciones, no la
+   Aplicación. La acompañan exclusivamente **el plan activado, su periodicidad,
+   la tienda que efectuó el cobro y dos valores de sí/no** —si se trata de una
+   renovación y si el período que termina era de prueba—. **No la acompañan el
+   importe pagado, la moneda, el país ni la referencia de la transacción.** El
+   interruptor descrito en el literal f) la desactiva igualmente, y el servidor
+   **no la registra cuando no puede confirmar que dicho interruptor está
+   activo**.
 
 b) **Información que acompaña a cada acción.** Exclusivamente **conteos,
    categorías y valores de sí/no**: por ejemplo, cuántos Contribuyentes tiene la
@@ -724,10 +735,14 @@ artículo 2.2.2.25.3.4 del Decreto 1074 de 2015.
 
 ## 18. VIGENCIA
 
-La presente Política rige a partir del **19 de septiembre de 2026** y deja sin
-efecto las versiones anteriores. Las bases de datos administradas se conservarán
-por el tiempo necesario para cumplir las finalidades del tratamiento y los plazos
-legales aplicables, conforme a la sección 13.
+La presente Política **rige desde su publicación** y deja sin efecto las
+versiones anteriores. Respecto de cada Titular, los cambios sustanciales
+enunciados en el numeral 17.2 rigen **desde que le han sido comunicados**, lo que
+para los Usuarios de la Aplicación ocurre en su siguiente ingreso, cuando la
+Aplicación le presenta la nueva versión y solicita su aceptación. Las bases de
+datos administradas se conservarán por el tiempo necesario para cumplir las
+finalidades del tratamiento y los plazos legales aplicables, conforme a la
+sección 13.
 
 ## 19. AUTORIDAD DE CONTROL
 
@@ -748,4 +763,4 @@ Superintendencia de Industria y Comercio — www.sic.gov.co
 
 ---
 
-*Versión 2.5 — 19 de septiembre de 2026.*
+*Versión 2.5 — 21 de septiembre de 2026.*
