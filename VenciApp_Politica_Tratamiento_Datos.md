@@ -147,10 +147,10 @@ e) Administrar organizaciones, invitaciones, roles y permisos de usuarios
    adicionales;
 f) Brindar soporte, atender peticiones, quejas y reclamos, y gestionar la
    retroalimentación recibida;
-g) Operar, mantener, depurar y mejorar la Aplicación, incluido el diagnóstico de
-   errores, el análisis de rendimiento y el **análisis estadístico del uso de las
-   funcionalidades**, con el fin de identificar en qué puntos los Usuarios
-   encuentran dificultades y priorizar mejoras (ver sección 12);
+g) Operar, mantener, depurar y mejorar la Aplicación y el sitio web, incluido el
+   diagnóstico de errores, el análisis de rendimiento y el **análisis estadístico
+   del uso de las funcionalidades**, con el fin de identificar en qué puntos los
+   Usuarios encuentran dificultades y priorizar mejoras (ver sección 12);
 h) **Prevenir el fraude y el abuso**, incluida la verificación de unicidad de la
    prueba gratuita y la detección de usos que eludan los límites del plan;
 i) Garantizar la seguridad de la información y de la infraestructura, y
@@ -362,7 +362,7 @@ proveedores, con quienes mantiene los respectivos acuerdos de tratamiento:
 | **650 Industries, Inc.** (Expo) | Estados Unidos | Plataforma de desarrollo, distribución de actualizaciones y entrega de notificaciones | Identificador del dispositivo y datos técnicos |
 | **Apple Inc.** y **Google LLC** | Estados Unidos | Distribución de la Aplicación y procesamiento de compras dentro de ella | Identificador de la transacción y estado de la suscripción |
 | **RevenueCat, Inc.** | Estados Unidos | Validación de las compras realizadas en las tiendas y administración del estado de la suscripción del Usuario | Identificador interno de la cuenta, identificadores de la transacción provistos por la tienda y estado de la suscripción. **No recibe el nombre, el correo electrónico ni dato alguno de Contribuyentes** |
-| **PostHog, Inc.** | Estados Unidos | Analítica de uso de la Aplicación: medición estadística de qué funcionalidades se utilizan y en qué punto los Usuarios abandonan un flujo | Identificador interno de la cuenta, datos técnicos del dispositivo y **conteos, categorías y valores de sí/no** sobre las acciones realizadas. **No recibe nombres, números de documento, razones sociales ni valores monetarios**, ni dato alguno de Contribuyentes |
+| **PostHog, Inc.** | Estados Unidos | Analítica de uso de la Aplicación y de las herramientas públicas del sitio venciapp.co: medición estadística de qué funcionalidades se utilizan y en qué punto los Usuarios abandonan un flujo (numerales 12.6 y 12.7.1) | En la Aplicación: identificador interno de la cuenta, datos técnicos del dispositivo y **conteos, categorías y valores de sí/no** sobre las acciones realizadas. En el sitio: un identificador aleatorio que no se conserva, la dirección IP, la página sin sus parámetros y la herramienta utilizada. **No recibe nombres, números de documento, razones sociales ni valores monetarios**, ni dato alguno de Contribuyentes |
 | **Cloudflare, Inc.** | Estados Unidos | Entrega y protección del sitio venciapp.co y del portal app.venciapp.co, y medición agregada de audiencia del sitio | Dirección IP, agente de usuario y datos técnicos de cada petición que pasa por el sitio o el portal. **No accede a la base de datos ni al contenido de la cuenta** |
 | **Wompi S.A.S.** (Grupo Bancolombia) | Colombia | Procesamiento de los pagos efectuados por los medios dispuestos en el sitio web oficial | Nombre completo y correo electrónico del Usuario, e importe y referencia de la transacción. **AKRUX no recibe ni almacena los datos del medio de pago** |
 | **Meta Platforms, Inc.** (Facebook, Instagram) | Estados Unidos e Irlanda | **Solo si el visitante lo acepta:** medición de la efectividad de la publicidad del sitio web y presentación de anuncios | Dirección IP, identificador de cookie del navegador, páginas visitadas de venciapp.co y acciones realizadas en ellas |
@@ -569,6 +569,39 @@ La medición de audiencia del sitio se realiza mediante una herramienta que **no
 instala cookies ni construye un identificador de la persona**: se limita a
 contabilizar visitas de forma agregada. Por ese motivo **no requiere aceptación
 previa** y no permite reconocer a un visitante entre una sesión y otra.
+
+**12.7.1. Uso de las herramientas públicas del sitio.** Además, AKRUX mide **qué
+herramientas públicas del sitio se utilizan** —el calendario tributario y las
+calculadoras—, con el único fin de priorizar su mejora. Esta medición se realiza a
+través de **PostHog, Inc.** (Estados Unidos), el mismo proveedor del numeral 12.6,
+en los siguientes términos:
+
+a) **Acciones que se miden.** Únicamente dos: el **filtrado del calendario
+   tributario**, acompañado del tipo de contribuyente y del municipio elegidos
+   —ambos tomados de listas cerradas del propio sitio—; y el **uso de una
+   calculadora**, acompañado del nombre de la calculadora y de si se generó un
+   documento PDF. Se remite además la **dirección de la página** en la que
+   ocurrió la acción, **sin los parámetros ni el fragmento de la dirección**, que
+   es donde las calculadoras conservan los valores digitados.
+
+b) **Información que NO se remite.** No se remiten **los valores digitados en las
+   calculadoras, fechas, montos, nombres, correos electrónicos ni números de
+   documento**. Tampoco se registran visitas, desplazamientos ni toques distintos
+   de las dos acciones del literal a).
+
+c) **Sin identificación del visitante.** El sitio **no instala cookies ni guarda
+   información en el navegador** para esta medición. Cada acción se asocia a un
+   **identificador aleatorio que existe solo mientras la página está abierta** y
+   se descarta al cerrarla o recargarla, y se indica expresamente a PostHog que
+   **no construya un perfil de persona**. Por ello no es posible reconocer a un
+   visitante entre una visita y otra, ni vincular esta medición con una cuenta de
+   la Aplicación. Como ocurre con cualquier petición en Internet, PostHog recibe
+   la dirección IP desde la que se envía, que puede usar para estimar de forma
+   aproximada el país o la ciudad.
+
+d) **Señal de privacidad del navegador.** Si el navegador del visitante envía la
+   señal de exclusión **Global Privacy Control**, el sitio **no remite ninguna de
+   estas acciones**. La medición solo opera en el dominio venciapp.co.
 
 **12.8. Sitio web: píxel de Meta (publicidad y medición de campañas).** Cuando
 AKRUX realiza campañas publicitarias en Facebook e Instagram, el sitio web
