@@ -1,6 +1,6 @@
 # POLÍTICA DE TRATAMIENTO DE DATOS PERSONALES — VENCIAPP
 
-**Última actualización:** 21 de septiembre de 2026
+**Última actualización:** 29 de septiembre de 2026
 **Versión:** 2.5
 **Vigencia:** desde su publicación
 
@@ -30,14 +30,16 @@ usuarios adicionales, contactos comerciales y visitantes del sitio web.
 
 **2.2.** Se expide en cumplimiento de la **Ley Estatutaria 1581 de 2012**, del
 **Decreto Único Reglamentario 1074 de 2015** (que compiló, entre otros, el
-Decreto 1377 de 2013), de la **Ley 1266 de 2008** en lo pertinente, de las
+Decreto 1377 de 2013), de la **Ley 1266 de 2008** únicamente en cuanto a las
+categorías de dato público, semiprivado y privado, de las
 circulares e instrucciones de la **Superintendencia de Industria y Comercio
 (SIC)** y del derecho fundamental al Habeas Data consagrado en el artículo 15 de
 la Constitución Política.
 
 ## 3. DEFINICIONES
 
-Conforme al artículo 3 de la Ley 1581 de 2012:
+Conforme al artículo 3 de la Ley 1581 de 2012 y al artículo 2.2.2.25.1.3 del
+Decreto 1074 de 2015:
 
 **Autorización:** consentimiento previo, expreso e informado del Titular para
 llevar a cabo el tratamiento de datos personales.
@@ -180,8 +182,9 @@ expresa e informada** para el tratamiento de sus datos conforme a esta Política
 mediante la marcación de la casilla dispuesta para tal efecto en el formulario de
 registro.
 
-**6.2. Prueba de la autorización.** De conformidad con el artículo 12 de la Ley
-1581 de 2012 y el artículo 2.2.2.25.2.4 del Decreto 1074 de 2015, AKRUX conserva
+**6.2. Prueba de la autorización.** De conformidad con los artículos 12 y 17,
+literal b), de la Ley 1581 de 2012 y el artículo 2.2.2.25.2.5 del Decreto 1074
+de 2015, AKRUX conserva
 registro electrónico de la autorización, con indicación de la fecha, la hora y la
 versión de la Política y de los Términos aceptados, el cual está disponible para
 el Titular que solicite prueba de la misma. Dicho registro constituye un mensaje
@@ -198,11 +201,9 @@ quede claro.** La totalidad de la infraestructura que hace funcionar VenciApp
 —base de datos, autenticación, almacenamiento de archivos, correo y entrega de
 actualizaciones— opera en servidores ubicados fuera de Colombia. Por eso la
 autorización de la sección 10 **no es separable del servicio**: es condición
-necesaria de su prestación, se otorga con la aceptación de esta Política y
-encuentra fundamento tanto en el literal a) como en el literal e) del artículo 26
-de la Ley 1581 de 2012 (autorización del Titular y necesidad para la ejecución
-del contrato). Quien no desee que sus datos se traten fuera de Colombia no puede
-utilizar la Aplicación.
+necesaria de su prestación y se otorga con la aceptación de esta Política. Su
+fundamento legal se explica en el numeral 10.2. Quien no desee que sus datos se
+traten fuera de Colombia no puede utilizar la Aplicación.
 
 **6.3.1. Comunicaciones comerciales.** La autorización para la finalidad del
 literal m) de la sección 5 se recoge mediante una **casilla independiente y
@@ -283,8 +284,9 @@ d) Presentar quejas ante la Superintendencia de Industria y Comercio por
    infracciones a la ley, previo trámite de consulta o reclamo ante el
    Responsable;
 e) Revocar la autorización y/o solicitar la supresión del dato cuando no se
-   respeten los principios, derechos y garantías constitucionales y legales, y
-   siempre que no medie un deber legal o contractual de permanencia;
+   respeten los principios, derechos y garantías constitucionales y legales. Esto
+   no procede cuando el Titular tenga un deber legal o contractual de permanecer
+   en la base de datos (artículo 2.2.2.25.2.6 del Decreto 1074 de 2015);
 f) Acceder de forma gratuita a sus datos personales objeto de tratamiento.
 
 Estos derechos podrán ser ejercidos por el Titular, sus causahabientes, su
@@ -343,13 +345,18 @@ ingrese pueden ser **almacenados y tratados en servidores ubicados fuera del
 territorio colombiano**, concretamente en **los Estados Unidos de América**, país
 en el que operan la totalidad de los proveedores relacionados en el numeral 10.3.
 
-**10.2. Base de legitimación.** Dado que algunos de dichos países pueden no estar
-comprendidos en la lista de países con nivel adecuado de protección adoptada por
-la Superintendencia de Industria y Comercio, **la transferencia se sustenta en la
-autorización previa, expresa e informada del Titular**, en los términos del
-literal a) del artículo 26 de la Ley 1581 de 2012, así como en su carácter
-necesario para la ejecución del contrato entre el Titular y el Responsable
-(literal e) del mismo artículo).
+**10.2. Base de legitimación.** Los proveedores del numeral 10.3 tratan los datos
+**por cuenta de AKRUX**, como Encargados. La comunicación de datos a ellos es una
+**transmisión internacional**, que se ampara en los acuerdos de tratamiento
+suscritos con cada uno, en los términos de los artículos 2.2.2.25.5.1 y
+2.2.2.25.5.2 del Decreto 1074 de 2015. Además, los Estados Unidos de América
+figuran entre los países con nivel adecuado de protección de datos según la
+Superintendencia de Industria y Comercio (Circular Externa 005 de 2017,
+incorporada a su Circular Única). Si algún tratamiento constituyera una
+transferencia, esta se sustenta, en todo caso, en la **autorización expresa e
+inequívoca del Titular** (literal a) del artículo 26 de la Ley 1581 de 2012) y en
+su carácter necesario para la ejecución del contrato entre el Titular y el
+Responsable (literal e) del mismo artículo).
 
 **10.3. Encargados y subprocesadores.** AKRUX se apoya en los siguientes
 proveedores, con quienes mantiene los respectivos acuerdos de tratamiento:
@@ -666,7 +673,8 @@ b) Por el término legal aplicable, la información necesaria para cumplir
    obligaciones **contables, tributarias y comerciales** derivadas de los pagos
    efectuados por el Usuario —esto es, los soportes de facturación, que se
    conservan con independencia de la cuenta— en general, diez (10) años conforme
-   al artículo 28 de la Ley 962 de 2005 y al artículo 60 del Código de Comercio;
+   al artículo 28 de la Ley 962 de 2005, que fijó ese término para los libros y
+   papeles del comerciante del artículo 60 del Código de Comercio;
 c) Por el término de prescripción de las acciones correspondientes, la
    información necesaria para el **ejercicio o la defensa de reclamaciones**, en
    caso de que exista una controversia en curso al momento de la eliminación;
@@ -763,8 +771,10 @@ normativos, técnicos u operativos.
 indicando la fecha de la nueva versión. **Los cambios sustanciales relativos a la
 identidad del Responsable, a las finalidades del tratamiento o a la forma de
 ejercer los derechos se comunicarán al Titular antes de su entrada en vigencia**,
-por correo electrónico o mediante aviso destacado en la Aplicación, conforme al
-artículo 2.2.2.25.3.4 del Decreto 1074 de 2015.
+por correo electrónico o mediante aviso destacado en la Aplicación, conforme a
+los artículos 2.2.2.25.2.2 y 2.2.2.25.3.1 del Decreto 1074 de 2015. Cuando el
+cambio se refiera a la finalidad del tratamiento, AKRUX solicitará además una
+nueva autorización al Titular.
 
 ## 18. VIGENCIA
 

@@ -1,6 +1,6 @@
 # TÉRMINOS Y CONDICIONES DE USO DE VENCIAPP
 
-**Última actualización:** 21 de septiembre de 2026
+**Última actualización:** 29 de septiembre de 2026
 **Versión:** 2.4
 **Vigencia:** desde su publicación
 
@@ -508,9 +508,9 @@ necesidad de justificar su decisión y sin que ello genere penalidad alguna**.
 idóneo, y en particular al correo **admin@venciapp.co**, indicando el nombre del
 Usuario, el correo de la Cuenta y la fecha de la compra. Recibida la solicitud
 dentro del plazo, el Titular **resolverá la suscripción y devolverá la totalidad
-de las sumas pagadas dentro de los TREINTA (30) DÍAS CALENDARIO** siguientes,
-conforme al citado artículo, utilizando el mismo medio de pago empleado en la
-transacción. Ejercido el retracto, **cesa el acceso a las funcionalidades del
+de las sumas pagadas dentro de los QUINCE (15) DÍAS CALENDARIO** siguientes,
+conforme al citado artículo, modificado por el artículo 3 de la Ley 2439 de
+2024, utilizando el mismo medio de pago empleado en la transacción. Ejercido el retracto, **cesa el acceso a las funcionalidades del
 Plan**, sin perjuicio de que el Usuario conserve su Cuenta y la información en
 ella contenida.
 
@@ -604,7 +604,8 @@ d) Lo previsto en este numeral **no sustituye ni limita** el derecho de retracto
 > **Nada de lo previsto en esta cláusula puede interpretarse como una renuncia
 > anticipada, una limitación o una condición al ejercicio de los derechos que la
 > Ley 1480 de 2011 reconoce al consumidor.** Conforme al numeral 2 del artículo 43
-> de dicha ley, cualquier estipulación en tal sentido se tendría por no escrita.
+> de dicha ley, cualquier estipulación en tal sentido sería ineficaz de pleno
+> derecho, sin afectar el resto del contrato (artículo 44).
 
 ## 14. USO ACEPTABLE
 
@@ -646,7 +647,9 @@ VenciApp, su código fuente y objeto, arquitectura, bases de datos, diseño,
 interfaz, elementos gráficos, marcas, logotipos, nombres comerciales, textos,
 documentación y Contenido de la Aplicación pertenecen a AKRUX S.A.S. o a sus
 licenciantes, y están protegidos por la legislación colombiana e internacional,
-incluida la Decisión Andina 351 de 1993 y la Ley 23 de 1982.
+incluidas la Decisión Andina 351 de 1993 y la Ley 23 de 1982 (derecho de autor)
+y la Decisión Andina 486 de 2000 (propiedad industrial: marcas y nombres
+comerciales).
 
 **15.2. Licencia de uso.** El uso de la Aplicación no transfiere derecho de
 propiedad intelectual alguno, sino que concede al Usuario una **licencia
@@ -848,12 +851,13 @@ consentimiento previo y escrito.
 
 El Titular no será responsable por el incumplimiento o retraso en sus
 obligaciones cuando obedezca a hechos constitutivos de fuerza mayor o caso
-fortuito, entendidos conforme al artículo 64 del Código Civil, incluyendo de
-manera enunciativa: desastres naturales, pandemias, actos de autoridad, cambios
-normativos, conflictos armados, actos de terrorismo, huelgas, fallas
-generalizadas de energía o telecomunicaciones, ataques informáticos masivos, e
-interrupciones o cese de operaciones de proveedores esenciales de
-infraestructura.
+fortuito, entendidos conforme al artículo 64 del Código Civil (subrogado por el
+artículo 1 de la Ley 95 de 1890), esto es, hechos imprevisibles e irresistibles.
+Siempre que reúnan esos dos requisitos, pueden serlo, entre otros: desastres
+naturales, pandemias, actos de autoridad, cambios normativos, conflictos
+armados, actos de terrorismo, huelgas, fallas generalizadas de energía o
+telecomunicaciones, ataques informáticos masivos, e interrupciones o cese de
+operaciones de proveedores esenciales de infraestructura.
 
 ## 23. SUSPENSIÓN, TERMINACIÓN Y EFECTOS
 
