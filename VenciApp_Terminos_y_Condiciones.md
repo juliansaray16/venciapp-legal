@@ -1,9 +1,9 @@
 # TÉRMINOS Y CONDICIONES DE USO DE VENCIAPP
 
-**Última actualización:** [FECHA DE PUBLICACIÓN]
+**Última actualización:** 14 de octubre de 2026
 **Versión:** 2.5
-**Fecha de expedición:** [FECHA DE PUBLICACIÓN]
-**Vigencia:** desde el [FECHA DE PUBLICACIÓN]
+**Fecha de expedición:** 14 de octubre de 2026
+**Vigencia:** desde el 14 de octubre de 2026
 **Reemplaza:** versión 2.3 (13 de septiembre de 2026)
 
 ---
@@ -557,4 +557,4 @@ Para cualquier consulta, petición, queja o reclamo relacionado con estos Térmi
 | **Versión** | **Fecha** | **Descripción** |
 | --- | --- | --- |
 | 2.3 | 13 de septiembre de 2026 | Versión publicada y aceptada por los Usuarios |
-| 2.5 | [FECHA DE PUBLICACIÓN] | Ajuste integral de legalidad: retracto conforme a la Ley 2439 de 2024; radicado de PQR; información del proveedor; aceptación expresa; cláusulas de responsabilidad, terminación y cesión; conservación de las cuentas en estado sin plan; armonización con la Política de Datos v2.6 |
+| 2.5 | 14 de octubre de 2026 | Ajuste integral de legalidad: retracto conforme a la Ley 2439 de 2024; radicado de PQR; información del proveedor; aceptación expresa; cláusulas de responsabilidad, terminación y cesión; conservación de las cuentas en estado sin plan; armonización con la Política de Datos v2.6 |

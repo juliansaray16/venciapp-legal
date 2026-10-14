@@ -1,9 +1,9 @@
 # POLÍTICA DE TRATAMIENTO DE DATOS PERSONALES — VENCIAPP
 
-**Última actualización:** [FECHA DE PUBLICACIÓN]
+**Última actualización:** 14 de octubre de 2026
 **Versión:** 2.6
-**Fecha de expedición:** [FECHA DE PUBLICACIÓN]
-**Vigencia:** desde el [FECHA DE PUBLICACIÓN]
+**Fecha de expedición:** 14 de octubre de 2026
+**Vigencia:** desde el 14 de octubre de 2026
 **Reemplaza:** versión 2.3 (2 de septiembre de 2026)
 
 ---
@@ -471,7 +471,7 @@ e) Los **registros de las compras** a que se refiere el numeral 14.6, en las con
 
 ## 19. VIGENCIA
 
-La presente Política **rige a partir del [FECHA DE PUBLICACIÓN]** y deja sin efecto las versiones anteriores. Respecto de cada Titular, los cambios que requieran nueva autorización rigen desde que este la otorga, lo que para los Usuarios de la Aplicación ocurre en su siguiente ingreso, cuando la Aplicación le presenta la nueva versión y solicita su aceptación; mientras no la otorgue, sus datos no se tratarán para la nueva finalidad. Las bases de datos administradas por AKRUX permanecerán vigentes mientras se desarrolle su objeto social y la operación de VenciApp, y los datos que contienen se conservarán por el tiempo previsto en la sección 14.
+La presente Política **rige a partir del 14 de octubre de 2026** y deja sin efecto las versiones anteriores. Respecto de cada Titular, los cambios que requieran nueva autorización rigen desde que este la otorga, lo que para los Usuarios de la Aplicación ocurre en su siguiente ingreso, cuando la Aplicación le presenta la nueva versión y solicita su aceptación; mientras no la otorgue, sus datos no se tratarán para la nueva finalidad. Las bases de datos administradas por AKRUX permanecerán vigentes mientras se desarrolle su objeto social y la operación de VenciApp, y los datos que contienen se conservarán por el tiempo previsto en la sección 14.
 
 ## 20. AUTORIDAD DE CONTROL
 
@@ -494,4 +494,4 @@ Superintendencia de Industria y Comercio — www.sic.gov.co
 | **Versión** | **Fecha** | **Descripción** |
 | --- | --- | --- |
 | 2.3 | 2 de septiembre de 2026 | Versión publicada y aceptada por los Usuarios |
-| 2.6 | [FECHA DE PUBLICACIÓN] | Ajuste integral de legalidad: régimen de transmisiones y transferencias; derechos del Titular; procedimiento de reclamos; deberes del Encargado; reporte de incidentes; conservación del número de identificación y de las cuentas sin plan; cambios sustanciales; analítica de uso, medición de correos comerciales y canal de adquisición; correcciones de citas normativas |
+| 2.6 | 14 de octubre de 2026 | Ajuste integral de legalidad: régimen de transmisiones y transferencias; derechos del Titular; procedimiento de reclamos; deberes del Encargado; reporte de incidentes; conservación del número de identificación y de las cuentas sin plan; cambios sustanciales; analítica de uso, medición de correos comerciales y canal de adquisición; correcciones de citas normativas |
