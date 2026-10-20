@@ -8,7 +8,7 @@ Repositorio fuente de los documentos legales de **VenciApp**, marca de
 | Archivo | Qué es |
 |---------|--------|
 | `VenciApp_Terminos_y_Condiciones.md` | Fuente única de los T&C (v2.5, revisada por el abogado; pendiente de publicar). |
-| `VenciApp_Politica_Tratamiento_Datos.md` | Fuente única de la política de datos (v2.9, publicada el 19-oct-2026; las anteriores están en `historico/`). |
+| `VenciApp_Politica_Tratamiento_Datos.md` | Fuente única de la política de datos (v2.10, <fecha de publicación>; las anteriores están en `historico/`). |
 | `NOTAS_LEGALES_INTERNAS.md` | Notas de trabajo. **No es público.** Hoy vive en `venciapp/docs/`. |
 | `historico/` | Versiones sin vigencia, conservadas como registro. |
 | `index.md`, `privacy-policy.md`, `_config.yml` | Sitio de GitHub Pages (hoy, solo redirección). |
