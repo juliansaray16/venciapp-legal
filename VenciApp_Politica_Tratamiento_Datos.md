@@ -1,9 +1,9 @@
 # POLÍTICA DE TRATAMIENTO DE DATOS PERSONALES — VENCIAPP
 
-**Última actualización:** <fecha de publicación>
+**Última actualización:** 20 de octubre de 2026
 **Versión:** 2.10
-**Fecha de expedición:** <fecha de publicación>
-**Vigencia:** desde el <fecha de publicación>
+**Fecha de expedición:** 20 de octubre de 2026
+**Vigencia:** desde el 20 de octubre de 2026
 **Reemplaza:** versión 2.9 (19 de octubre de 2026)
 
 ---
@@ -494,7 +494,7 @@ Superintendencia de Industria y Comercio — www.sic.gov.co
 | **Versión** | **Fecha** | **Descripción** |
 | --- | --- | --- |
 | 2.3 | 2 de septiembre de 2026 | Versión publicada y aceptada por los Usuarios |
-| 2.10 | <fecha de publicación> | Incorporación del tipo de persona y del tipo de documento a los datos de registro, y de la razón social para personas jurídicas (numeral 5.1); uso del número de identificación para mostrar al Usuario la fecha de vencimiento de su declaración de renta y, si el Usuario lo decide, registrarlo como Contribuyente con sus propios datos, aceptando esa fecha o desde un formulario precargado (numeral 5.1); y precisión del literal b) del numeral 13.6. Por tratarse de nuevas finalidades, se aplican a los Usuarios que acepten esta versión (numeral 18.2). |
+| 2.10 | 20 de octubre de 2026 | Incorporación del tipo de persona y del tipo de documento a los datos de registro, y de la razón social para personas jurídicas (numeral 5.1); uso del número de identificación para mostrar al Usuario la fecha de vencimiento de su declaración de renta y, si el Usuario lo decide, registrarlo como Contribuyente con sus propios datos, aceptando esa fecha o desde un formulario precargado (numeral 5.1); y precisión del literal b) del numeral 13.6. Por tratarse de nuevas finalidades, se aplican a los Usuarios que acepten esta versión (numeral 18.2). |
 | 2.9 | 19 de octubre de 2026 | Precisión del literal a) del numeral 13.6: el registro de una cuenta nueva pasa a registrarlo AKRUX en sus servidores al confirmarse el correo electrónico, acompañado exclusivamente del canal desde el que se creó la cuenta, en lugar de originarse en el dispositivo del Usuario. Misma acción, misma finalidad, mismo proveedor y las mismas restricciones; cambio no sustancial conforme al numeral 18.1. |
 | 2.8 | 16 de octubre de 2026 | Incorporación al literal a) del numeral 13.6 de la apertura de la pantalla de planes y del inicio, la cancelación o el fallo de la compra de una suscripción, conforme al mismo literal y al numeral 18.1 (cambio no sustancial: misma finalidad, mismo proveedor y mismas restricciones) |
 | 2.7 | 16 de octubre de 2026 | Incorporación al literal a) del numeral 13.6 del uso de las herramientas de consulta de la Aplicación, conforme al mismo literal y al numeral 18.1 (cambio no sustancial: misma finalidad, mismo proveedor y mismas restricciones). Actualización del estado de la medición de las herramientas del Sitio (numerales 6.3, 11.3 y 13.7.1), activa desde el 14 de octubre de 2026 |
