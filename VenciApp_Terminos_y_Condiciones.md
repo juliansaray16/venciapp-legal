@@ -1,10 +1,10 @@
 # TÉRMINOS Y CONDICIONES DE USO DE VENCIAPP
 
-**Última actualización:** 14 de octubre de 2026
-**Versión:** 2.5
-**Fecha de expedición:** 14 de octubre de 2026
-**Vigencia:** desde el 14 de octubre de 2026
-**Reemplaza:** versión 2.3 (13 de septiembre de 2026)
+**Última actualización:** 10 de noviembre de 2026
+**Versión:** 2.5.1
+**Fecha de expedición:** 10 de noviembre de 2026
+**Vigencia:** desde el 10 de noviembre de 2026
+**Reemplaza:** versión 2.5 (14 de octubre de 2026)
 
 ---
 
@@ -506,6 +506,8 @@ En ambos casos subsiste la información que deba conservarse por obligación leg
 
 - Teléfono **+57 314 217 3610** y la dirección física indicada en la cláusula 1.
 
+- Formulario de radicación de peticiones, quejas y reclamos en **venciapp.co/pqr**.
+
 Una comunicación dirigida a cualquiera de ellos se entiende **válidamente presentada** y los plazos corren desde su recepción; AKRUX la encauza internamente sin cargo para el Usuario. Conforme al literal g) del artículo 50 de la Ley 1480 de 2011, modificado por la Ley 2439 de 2024, **toda petición, queja o reclamo recibe un número de radicado con indicación de la fecha y la hora de su recepción**, que se informa al Usuario junto con el mecanismo para hacer seguimiento a su trámite. Las peticiones, quejas y reclamos se responderán dentro de los quince (15) días hábiles siguientes a su recepción, salvo que la ley establezca un término distinto.
 
 **26.4. Comunicaciones del servicio y comunicaciones comerciales.** Las comunicaciones a que se refieren los numerales anteriores son **comunicaciones del servicio**: derivan de la ejecución de este contrato —verificación de la Cuenta, recuperación de la contraseña, recordatorios de vencimientos, invitaciones a una Organización, avisos sobre el Plan o la suscripción, avisos de seguridad y comunicación de cambios en estos Términos o en la Política de Datos— y **no dependen de una autorización adicional ni son susceptibles de baja** mientras la Cuenta esté activa, sin perjuicio de que el Usuario configure los canales, los días y las horas de los recordatorios desde la Aplicación.
@@ -548,6 +550,8 @@ Para cualquier consulta, petición, queja o reclamo relacionado con estos Térmi
 
 - Teléfono: +57 314 217 3610
 
+- Formulario de peticiones, quejas y reclamos: **venciapp.co/pqr**
+
 - Dirección para notificaciones: Diagonal 8 Sur # 39A - 138, Villavicencio, Meta, Colombia
 
 - Autoridad de protección al consumidor: Superintendencia de Industria y Comercio — www.sic.gov.co
@@ -558,3 +562,4 @@ Para cualquier consulta, petición, queja o reclamo relacionado con estos Térmi
 | --- | --- | --- |
 | 2.3 | 13 de septiembre de 2026 | Versión publicada y aceptada por los Usuarios |
 | 2.5 | 14 de octubre de 2026 | Ajuste integral de legalidad: retracto conforme a la Ley 2439 de 2024; radicado de PQR; información del proveedor; aceptación expresa; cláusulas de responsabilidad, terminación y cesión; conservación de las cuentas en estado sin plan; armonización con la Política de Datos v2.6 |
+| 2.5.1 | 10 de noviembre de 2026 | Se agrega el formulario de radicación de peticiones, quejas y reclamos de venciapp.co/pqr como canal de atención (numerales 26.3 y 30), en coherencia con la Política de Tratamiento de Datos 2.16 y el aviso de privacidad. No impone obligaciones nuevas al Usuario ni modifica condiciones comerciales; no requiere aceptación expresa (numeral 24.3) |
