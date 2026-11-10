@@ -1,10 +1,10 @@
 # POLÍTICA DE TRATAMIENTO DE DATOS PERSONALES — VENCIAPP
 
-**Última actualización:** 9 de noviembre de 2026
-**Versión:** 2.14
-**Fecha de expedición:** 9 de noviembre de 2026
-**Vigencia:** desde el 9 de noviembre de 2026
-**Reemplaza:** versión 2.13 (7 de noviembre de 2026)
+**Última actualización:** 10 de noviembre de 2026
+**Versión:** 2.15
+**Fecha de expedición:** 10 de noviembre de 2026
+**Vigencia:** desde el 10 de noviembre de 2026
+**Reemplaza:** versión 2.14 (9 de noviembre de 2026)
 
 ---
 
@@ -379,7 +379,7 @@ a) **Acciones que se miden.** Únicamente dos: el **filtrado del calendario trib
 
 b) **Información que NO se remite.** No se remiten los valores digitados en las calculadoras, fechas, montos, nombres, correos electrónicos ni números de documento. Tampoco se registran visitas, desplazamientos ni toques distintos de las dos acciones del literal a).
 
-c) **Sin identificación del visitante.** El Sitio no instala cookies ni guarda información en el navegador para esta medición. Cada acción se asocia a un **identificador aleatorio que existe solo mientras la página está abierta** y se descarta al cerrarla o recargarla, y se indica expresamente a PostHog que **no construya un perfil de persona**. Por ello no es posible reconocer a un visitante entre una visita y otra, ni vincular esta medición con una cuenta de la Aplicación. Como ocurre con cualquier petición en Internet, PostHog recibe la dirección IP desde la que se envía cada acción, que puede usar para estimar de forma aproximada el país o la ciudad.
+c) **Sin identificación del visitante.** El Sitio no instala cookies ni guarda información en el navegador para esta medición. Cada acción se asocia a un **identificador aleatorio que existe solo mientras la página está abierta** y se descarta al cerrarla o recargarla, y se indica expresamente a PostHog que **no construya un perfil de persona**. Cada acción se acompaña además de un **rótulo técnico fijo que identifica al emisor** (el Sitio), igual para todos los visitantes; **no se remite el agente de usuario ni ninguna otra información del navegador o del dispositivo del visitante**. Por ello no es posible reconocer a un visitante entre una visita y otra, ni vincular esta medición con una cuenta de la Aplicación. Como ocurre con cualquier petición en Internet, PostHog recibe la dirección IP desde la que se envía cada acción, que puede usar para estimar de forma aproximada el país o la ciudad.
 
 d) **Señal de privacidad del navegador.** Si el navegador del visitante envía la señal de exclusión **Global Privacy Control**, el Sitio no remite ninguna de estas acciones. La medición solo opera en el dominio venciapp.co.
 
@@ -494,6 +494,7 @@ Superintendencia de Industria y Comercio — www.sic.gov.co
 | **Versión** | **Fecha** | **Descripción** |
 | --- | --- | --- |
 | 2.3 | 2 de septiembre de 2026 | Versión publicada y aceptada por los Usuarios |
+| 2.15 | 10 de noviembre de 2026 | Precisión del literal c) del numeral 13.7.1: cada acción medida en el Sitio se acompaña de un rótulo técnico fijo que identifica al emisor, igual para todos los visitantes, y no se remite el agente de usuario ni otra información del navegador o del dispositivo. Misma finalidad, mismo proveedor y ningún dato nuevo del visitante; no constituye un cambio sustancial (numeral 18.1). |
 | 2.14 | 9 de noviembre de 2026 | Incorporación al literal a) del numeral 13.6 del retiro de una obligación en el formulario de un Contribuyente y del guardado de ese formulario, y ampliación de la lista cerrada de anuncios de la acción (x) con los anuncios del periodo de prueba y la respuesta de enterado, con las mismas restricciones de los literales b) a e), la misma finalidad y el mismo proveedor; no constituye un cambio sustancial (numeral 18.1). |
 | 2.13 | 7 de noviembre de 2026 | Incorporación al literal a) del numeral 13.6 de las acciones sobre varios vencimientos o varios Contribuyentes a la vez y de la respuesta a un anuncio de una funcionalidad nueva, con las mismas restricciones de los literales b) a e), la misma finalidad y el mismo proveedor; no constituye un cambio sustancial (numeral 18.1). |
 | 2.12 | 27 de octubre de 2026 | Incorporación al literal a) del numeral 13.6 del paso a otra sección principal de la Aplicación y de la elección de una vista en la pantalla de vencimientos, con las mismas restricciones de los literales b) a e), la misma finalidad y el mismo proveedor; no constituye un cambio sustancial (numeral 18.1). |
