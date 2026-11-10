@@ -1,10 +1,10 @@
 # POLÍTICA DE TRATAMIENTO DE DATOS PERSONALES — VENCIAPP
 
 **Última actualización:** 10 de noviembre de 2026
-**Versión:** 2.15
+**Versión:** 2.16
 **Fecha de expedición:** 10 de noviembre de 2026
 **Vigencia:** desde el 10 de noviembre de 2026
-**Reemplaza:** versión 2.14 (9 de noviembre de 2026)
+**Reemplaza:** versión 2.15 (10 de noviembre de 2026)
 
 ---
 
@@ -18,7 +18,7 @@
 
 ## 2. ALCANCE, MARCO LEGAL Y CALIDADES
 
-**2.1. Alcance.** Esta Política aplica a todo tratamiento de datos personales que realice AKRUX S.A.S. en desarrollo de la operación de VenciApp, respecto de Usuarios Titulares de Cuenta, Usuarios Adicionales, personas invitadas, contactos comerciales y visitantes del Sitio, así como al tratamiento que AKRUX realiza, en calidad de Encargado, de los datos de los Contribuyentes. No se aplica a la información de personas jurídicas, la cual no constituye dato personal, sin perjuicio de que los datos de las personas naturales vinculadas a ellas sí lo sean.
+**2.1. Alcance.** Esta Política aplica a todo tratamiento de datos personales que realice AKRUX S.A.S. en desarrollo de la operación de VenciApp, respecto de Usuarios Titulares de Cuenta, Usuarios Adicionales, personas invitadas, contactos comerciales y visitantes del Sitio, así como al tratamiento que AKRUX realiza, en calidad de Encargado, de los datos de los Contribuyentes. No se aplica a la información de personas jurídicas, la cual no constituye dato personal, sin perjuicio de que los datos de las personas naturales vinculadas a ellas sí lo sean. En consecuencia, el número de identificación tributaria (NIT) y la razón social de una persona jurídica no son datos personales; sí lo son el NIT de una persona natural, que corresponde a su número de documento de identidad, y los datos de las personas naturales que actúan en nombre de una persona jurídica.
 
 **2.2. Marco legal.** Esta Política se expide en cumplimiento de los artículos 15 y 20 de la Constitución Política; de la **Ley Estatutaria 1581 de 2012**; del **Decreto Único Reglamentario 1074 de 2015**, Libro 2, Parte 2, Título 2, Capítulos 25 y 26 (que compilaron los Decretos 1377 de 2013 y 886 de 2014, con la modificación introducida por el Decreto 090 de 2018); del **Título V de la Circular Única de la Superintendencia de Industria y Comercio (SIC)**; de la **Ley 527 de 1999**, en materia de mensajes de datos; y del **artículo 5 de la Ley 2300 de 2023**, en materia de comunicaciones comerciales.
 
@@ -29,6 +29,8 @@ AKRUX **no reporta información a operadores de bancos de datos de información 
 - AKRUX actúa como **Responsable del Tratamiento** respecto de los datos de los Usuarios Titulares de Cuenta, de los Usuarios Adicionales, de las personas invitadas, de los contactos comerciales y de los visitantes del Sitio (sección 5.1).
 
 - AKRUX actúa como **Encargado del Tratamiento** respecto de los datos de los Contribuyentes que los Usuarios ingresan a la Aplicación, por cuenta y según las instrucciones del Usuario, quien es el Responsable de esos datos (secciones 5.2 y 8).
+
+- Cuando un Usuario, persona natural, registra como Contribuyente **sus propios datos** —desde la pantalla de bienvenida (numeral 5.1) o de cualquier otra forma—, ese registro no contiene datos de un tercero, por lo que AKRUX actúa respecto de él como **Responsable del Tratamiento**, con fundamento en la autorización otorgada al registrarse y para las finalidades del numeral 6.1. El registro se trata con las mismas medidas de seguridad que los demás, es visible para los demás Usuarios de la organización según los permisos que el Usuario Titular de Cuenta asigne, y el Usuario puede modificarlo o eliminarlo en cualquier momento o ejercer respecto de él los derechos de la sección 9 directamente ante AKRUX.
 
 ## 3. DEFINICIONES
 
@@ -97,6 +99,7 @@ AKRUX aplica, de manera armónica e integral, los principios del artículo 4 de 
 | Técnicos | Modelo y tipo de dispositivo, sistema operativo, versión de la Aplicación, dirección IP, registros de acceso y de error | Automático |
 | Uso | Registro estadístico de las acciones realizadas dentro de la Aplicación, expresado únicamente en conteos, categorías y valores de sí/no. No incluye el contenido de los datos de Contribuyentes ni valores monetarios (sección 13.6) | Automático |
 | Soporte | Contenido de las comunicaciones de soporte y de la retroalimentación que el Usuario envíe voluntariamente | Voluntario |
+| Peticiones, quejas y reclamos | Contenido de la solicitud, número de radicado, fecha y hora de recepción, respuesta y documentos aportados (sección 10) | Voluntario |
 | Adquisición | Canal o campaña por el que el Usuario llegó al registro: nombre de la campaña, fuente y medio, y dominio del sitio de procedencia. No incluye identificadores de clic de plataformas publicitarias (sección 13.11) | Automático |
 | Correo | Registro de los clics en los enlaces de las comunicaciones comerciales: enlace, mensaje y fecha del clic (sección 13.10) | Automático |
 
@@ -248,7 +251,7 @@ f) Acceder en forma gratuita a sus datos personales que hayan sido objeto de tra
 
 ## 10. PROCEDIMIENTO PARA CONSULTAS Y RECLAMOS
 
-**10.1. Canales de atención.** Los Titulares pueden ejercer sus derechos, de forma gratuita, a través del correo electrónico **admin@venciapp.co**, que se encuentra permanentemente disponible, mediante comunicación escrita dirigida a la dirección física de AKRUX indicada en la sección 1 o a través del teléfono allí señalado. Toda solicitud recibe un número de radicado con indicación de la fecha y la hora de su recepción. Los Usuarios pueden, además, consultar y actualizar directamente sus datos de perfil, y eliminar su cuenta, desde la propia Aplicación.
+**10.1. Canales de atención.** Los Titulares pueden ejercer sus derechos, de forma gratuita, a través del correo electrónico **admin@venciapp.co**, que se encuentra permanentemente disponible, del formulario de radicación disponible en **venciapp.co/pqr**, mediante comunicación escrita dirigida a la dirección física de AKRUX indicada en la sección 1 o a través del teléfono allí señalado. Toda solicitud recibe un número de radicado con indicación de la fecha y la hora de su recepción. Los Usuarios pueden, además, consultar y actualizar directamente sus datos de perfil, y eliminar su cuenta, desde la propia Aplicación.
 
 **10.2. Contenido de la solicitud.** La solicitud debe indicar: nombre completo y número de identificación del Titular; la petición concreta; la descripción de los hechos que la motivan, en el caso de los reclamos; los documentos que se quieran hacer valer; y una dirección física o electrónica para la respuesta. Para proteger los datos frente a solicitudes fraudulentas, AKRUX podrá verificar la identidad del solicitante por medios proporcionados —por ejemplo, exigiendo que la solicitud provenga del correo electrónico registrado en la cuenta o solicitando información que solo el Titular conozca—, sin exigir más información de la estrictamente necesaria para ese fin.
 
@@ -320,6 +323,8 @@ b) **Transferencias a Responsables independientes.** Los proveedores que tratan 
 - Almacenamiento de archivos en repositorios privados, no accesibles públicamente, cuyo acceso se restringe además **a los Contribuyentes efectivamente asignados** a cada Usuario Adicional, de forma equivalente a la restricción aplicable al resto de su información;
 
 - Separación de la infraestructura de desarrollo y de producción en proyectos independientes, con un control automatizado que impide que los ambientes distintos de producción envíen comunicaciones a Titulares reales;
+
+- Los ambientes de desarrollo y de pruebas **no contienen datos personales reales de Usuarios ni de Contribuyentes**, salvo los del propio personal de AKRUX que realiza las pruebas, con su consentimiento: las pruebas se realizan con datos ficticios o anonimizados, y AKRUX verifica periódicamente, cotejándolos con los de producción, que no los contengan;
 
 - Principio de mínimo privilegio en el acceso del personal y de los proveedores;
 
@@ -435,6 +440,7 @@ e) Los **registros de las compras** a que se refiere el numeral 14.6, en las con
 | Reglas comunes a las cuentas en estado sin plan | Vencido el término, la información se suprime como si el Usuario hubiera eliminado la cuenta, previo aviso al correo registrado con **treinta (30) días calendario** de antelación. Si dentro del plazo del aviso el Usuario ingresa a la Aplicación o al portal, la supresión no se ejecuta y el término vuelve a contarse desde ese ingreso; si contrata un Plan, el término deja de correr. Se entiende por ingreso el inicio de sesión o cualquier uso de la Aplicación o del portal con la sesión iniciada (numeral 23.4 de los Términos y Condiciones) |
 | Registros de error de los servidores de AKRUX (numeral 13.4) | **Noventa (90) días** |
 | Registro de clics en los enlaces de las comunicaciones comerciales (numeral 13.10) | **Doce (12) meses** desde el clic, o hasta la eliminación de la cuenta si ocurre antes |
+| Peticiones, quejas y reclamos, sus radicados, respuestas y soportes (sección 10) | **Diez (10) años** contados desde la fecha del último documento del trámite, por tratarse de correspondencia relacionada con los negocios de AKRUX que, como comerciante, debe conservar (artículos 19, numeral 4, 51 y 60 del Código de Comercio y artículo 28 de la Ley 962 de 2005), en un medio que garantice su reproducción exacta. Durante ese término se conservan con acceso restringido y solo se consultan para atender el mismo asunto, acreditar el cumplimiento de los deberes de AKRUX o ejercer o defender sus derechos. Vencido el término, se suprimen o se anonimizan |
 | Canal de adquisición (numeral 13.11) | Se elimina junto con la cuenta |
 | Registro de las versiones de la Aplicación utilizadas por el Usuario | Se elimina junto con la cuenta |
 | Eventos de compra y suscripción reportados por las tiendas de aplicaciones | Se conservan por razones contables y de conciliación con el proveedor de pagos. Al eliminarse la cuenta se suprime de ellos, de forma automática e irreversible, todo identificador directo del Usuario —incluido el que viaja dentro del cuerpo del evento remitido por la tienda—, de modo que solo subsisten el importe, el producto, la fecha y la referencia de la transacción. Por cuanto la referencia de la transacción puede vincularse con los soportes de facturación conservados conforme al literal b) del numeral 14.3, estos registros se consideran **seudonimizados** y se tratan como dato personal hasta el vencimiento del término de conservación contable |
@@ -471,7 +477,7 @@ e) Los **registros de las compras** a que se refiere el numeral 14.6, en las con
 
 ## 19. VIGENCIA
 
-La presente Política **rige a partir del 14 de octubre de 2026** y deja sin efecto las versiones anteriores. Respecto de cada Titular, los cambios que requieran nueva autorización rigen desde que este la otorga, lo que para los Usuarios de la Aplicación ocurre en su siguiente ingreso, cuando la Aplicación le presenta la nueva versión y solicita su aceptación; mientras no la otorgue, sus datos no se tratarán para la nueva finalidad. Las bases de datos administradas por AKRUX permanecerán vigentes mientras se desarrolle su objeto social y la operación de VenciApp, y los datos que contienen se conservarán por el tiempo previsto en la sección 14.
+La presente Política **rige a partir del 10 de noviembre de 2026** y deja sin efecto las versiones anteriores. Respecto de cada Titular, los cambios que requieran nueva autorización rigen desde que este la otorga, lo que para los Usuarios de la Aplicación ocurre en su siguiente ingreso, cuando la Aplicación le presenta la nueva versión y solicita su aceptación; mientras no la otorgue, sus datos no se tratarán para la nueva finalidad. Las bases de datos administradas por AKRUX permanecerán vigentes mientras se desarrolle su objeto social y la operación de VenciApp, y los datos que contienen se conservarán por el tiempo previsto en la sección 14.
 
 ## 20. AUTORIDAD DE CONTROL
 
@@ -494,6 +500,7 @@ Superintendencia de Industria y Comercio — www.sic.gov.co
 | **Versión** | **Fecha** | **Descripción** |
 | --- | --- | --- |
 | 2.3 | 2 de septiembre de 2026 | Versión publicada y aceptada por los Usuarios |
+| 2.16 | 10 de noviembre de 2026 | Precisiones del concepto jurídico del 9 de noviembre de 2026: el NIT y la razón social de una persona jurídica no son datos personales (numeral 2.1); AKRUX es Responsable del registro en que el Usuario se inscribe a sí mismo como Contribuyente (numeral 2.3); el formulario de radicación de venciapp.co/pqr como canal de atención (numeral 10.1); los ambientes de desarrollo y de pruebas no contienen datos reales (numeral 12.1); la conservación de las peticiones, quejas y reclamos durante diez años conforme al Código de Comercio (numerales 5.1 y 14.6); y la fecha de vigencia de la sección 19. Ninguna cambia las finalidades del tratamiento; no constituyen un cambio sustancial (numeral 18.1). |
 | 2.15 | 10 de noviembre de 2026 | Precisión del literal c) del numeral 13.7.1: cada acción medida en el Sitio se acompaña de un rótulo técnico fijo que identifica al emisor, igual para todos los visitantes, y no se remite el agente de usuario ni otra información del navegador o del dispositivo. Misma finalidad, mismo proveedor y ningún dato nuevo del visitante; no constituye un cambio sustancial (numeral 18.1). |
 | 2.14 | 9 de noviembre de 2026 | Incorporación al literal a) del numeral 13.6 del retiro de una obligación en el formulario de un Contribuyente y del guardado de ese formulario, y ampliación de la lista cerrada de anuncios de la acción (x) con los anuncios del periodo de prueba y la respuesta de enterado, con las mismas restricciones de los literales b) a e), la misma finalidad y el mismo proveedor; no constituye un cambio sustancial (numeral 18.1). |
 | 2.13 | 7 de noviembre de 2026 | Incorporación al literal a) del numeral 13.6 de las acciones sobre varios vencimientos o varios Contribuyentes a la vez y de la respuesta a un anuncio de una funcionalidad nueva, con las mismas restricciones de los literales b) a e), la misma finalidad y el mismo proveedor; no constituye un cambio sustancial (numeral 18.1). |
